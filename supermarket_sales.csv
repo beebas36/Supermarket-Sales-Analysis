@@ -1,0 +1,1001 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Date,Payment,Total
+1000,A,Lalitpur,Member,Male,Electronic accessories,349,7,8/5/2025,Credit card,2443
+1001,C,Biratnagar,Normal,Male,Food and beverages,166,4,10/7/2025,Credit card,664
+1002,A,Butwal,Normal,Female,Sports and travel,593,7,11/10/2025,Ewallet,4151
+1003,B,Pokhara,Normal,Female,Fashion accessories,733,2,10/18/2025,Credit card,1466
+1004,C,Butwal,Member,Male,Sports and travel,900,4,2/11/2026,Cash,3600
+1005,B,Kathmandu,Member,Female,Sports and travel,193,7,2/16/2026,Ewallet,1351
+1006,B,Kathmandu,Member,Female,Sports and travel,821,3,11/11/2025,Ewallet,2463
+1007,B,Pokhara,Normal,Female,Health and beauty,234,3,8/17/2025,Credit card,702
+1008,A,Butwal,Member,Female,Sports and travel,865,4,5/1/2025,Cash,3460
+1009,A,Kathmandu,Member,Female,Food and beverages,169,5,1/24/2026,Ewallet,845
+1010,A,Biratnagar,Member,Female,Food and beverages,665,4,1/18/2026,Credit card,2660
+1011,C,Lalitpur,Normal,Male,Electronic accessories,629,6,4/26/2025,Ewallet,3774
+1012,B,Pokhara,Member,Female,Food and beverages,694,3,2/23/2026,Cash,2082
+1013,C,Butwal,Normal,Male,Sports and travel,202,9,12/28/2025,Cash,1818
+1014,C,Pokhara,Normal,Male,Sports and travel,306,4,7/31/2025,Cash,1224
+1015,B,Pokhara,Normal,Male,Fashion accessories,308,8,3/13/2026,Ewallet,2464
+1016,B,Lalitpur,Normal,Female,Food and beverages,906,9,8/2/2025,Cash,8154
+1017,A,Biratnagar,Normal,Male,Food and beverages,448,4,12/15/2025,Cash,1792
+1018,A,Kathmandu,Member,Female,Food and beverages,359,2,6/29/2025,Ewallet,718
+1019,C,Pokhara,Member,Female,Health and beauty,807,8,3/17/2026,Cash,6456
+1020,A,Butwal,Member,Male,Sports and travel,328,10,3/16/2026,Cash,3280
+1021,C,Pokhara,Member,Female,Health and beauty,215,6,9/11/2025,Ewallet,1290
+1022,C,Lalitpur,Normal,Male,Health and beauty,387,1,12/24/2025,Credit card,387
+1023,C,Biratnagar,Normal,Female,Health and beauty,237,3,11/24/2025,Credit card,711
+1024,B,Pokhara,Normal,Female,Health and beauty,264,2,5/4/2025,Credit card,528
+1025,A,Biratnagar,Normal,Male,Fashion accessories,602,2,12/19/2025,Credit card,1204
+1026,A,Biratnagar,Member,Male,Electronic accessories,620,6,11/2/2025,Cash,3720
+1027,C,Biratnagar,Member,Male,Health and beauty,498,4,9/14/2025,Ewallet,1992
+1028,C,Biratnagar,Normal,Male,Electronic accessories,758,9,1/18/2026,Cash,6822
+1029,A,Lalitpur,Member,Female,Fashion accessories,335,2,5/1/2025,Cash,670
+1030,C,Lalitpur,Member,Male,Food and beverages,257,6,3/15/2026,Credit card,1542
+1031,B,Kathmandu,Member,Male,Electronic accessories,112,4,2/26/2026,Ewallet,448
+1032,B,Pokhara,Normal,Female,Health and beauty,820,6,5/11/2025,Credit card,4920
+1033,A,Kathmandu,Member,Male,Food and beverages,425,9,9/22/2025,Cash,3825
+1034,B,Pokhara,Normal,Male,Fashion accessories,218,10,11/25/2025,Credit card,2180
+1035,B,Lalitpur,Member,Female,Health and beauty,452,3,6/14/2025,Credit card,1356
+1036,A,Kathmandu,Member,Male,Sports and travel,615,10,7/28/2025,Ewallet,6150
+1037,C,Biratnagar,Member,Female,Health and beauty,724,9,9/29/2025,Ewallet,6516
+1038,A,Biratnagar,Normal,Male,Health and beauty,453,9,10/17/2025,Credit card,4077
+1039,A,Lalitpur,Normal,Female,Sports and travel,657,1,5/8/2025,Credit card,657
+1040,A,Butwal,Normal,Male,Electronic accessories,708,8,11/30/2025,Ewallet,5664
+1041,C,Biratnagar,Member,Female,Fashion accessories,116,5,3/29/2025,Cash,580
+1042,A,Kathmandu,Normal,Female,Health and beauty,694,7,9/15/2025,Cash,4858
+1043,A,Kathmandu,Member,Male,Electronic accessories,476,6,4/12/2025,Ewallet,2856
+1044,C,Biratnagar,Normal,Female,Electronic accessories,241,5,7/6/2025,Credit card,1205
+1045,A,Kathmandu,Normal,Female,Health and beauty,847,4,5/23/2025,Cash,3388
+1046,C,Butwal,Member,Female,Sports and travel,106,5,4/23/2025,Cash,530
+1047,A,Pokhara,Member,Female,Sports and travel,767,6,6/11/2025,Ewallet,4602
+1048,B,Butwal,Member,Female,Food and beverages,784,8,10/14/2025,Cash,6272
+1049,C,Lalitpur,Normal,Female,Health and beauty,543,6,8/4/2025,Cash,3258
+1050,C,Kathmandu,Normal,Male,Health and beauty,849,7,3/18/2026,Cash,5943
+1051,B,Lalitpur,Normal,Female,Health and beauty,287,10,6/26/2025,Cash,2870
+1052,B,Kathmandu,Member,Male,Fashion accessories,538,3,6/24/2025,Credit card,1614
+1053,B,Lalitpur,Member,Male,Health and beauty,188,5,3/5/2026,Credit card,940
+1054,A,Biratnagar,Member,Female,Fashion accessories,332,1,5/26/2025,Credit card,332
+1055,A,Kathmandu,Normal,Male,Fashion accessories,342,7,10/8/2025,Ewallet,2394
+1056,B,Kathmandu,Normal,Female,Electronic accessories,812,6,4/23/2025,Credit card,4872
+1057,C,Kathmandu,Normal,Male,Fashion accessories,814,9,9/13/2025,Cash,7326
+1058,B,Biratnagar,Member,Female,Health and beauty,369,7,11/10/2025,Cash,2583
+1059,A,Butwal,Normal,Female,Electronic accessories,173,1,8/21/2025,Ewallet,173
+1060,B,Pokhara,Member,Male,Electronic accessories,459,2,5/4/2025,Credit card,918
+1061,C,Pokhara,Member,Male,Fashion accessories,103,9,7/5/2025,Cash,927
+1062,C,Lalitpur,Normal,Female,Fashion accessories,691,7,3/20/2026,Credit card,4837
+1063,A,Butwal,Member,Female,Food and beverages,113,5,10/24/2025,Cash,565
+1064,A,Kathmandu,Member,Male,Health and beauty,205,2,11/18/2025,Cash,410
+1065,A,Lalitpur,Normal,Male,Health and beauty,257,4,7/19/2025,Cash,1028
+1066,B,Pokhara,Normal,Male,Health and beauty,849,4,11/10/2025,Cash,3396
+1067,B,Pokhara,Normal,Male,Fashion accessories,107,4,2/28/2026,Ewallet,428
+1068,B,Pokhara,Member,Male,Food and beverages,303,3,8/11/2025,Ewallet,909
+1069,B,Pokhara,Member,Female,Health and beauty,133,4,4/7/2025,Cash,532
+1070,B,Pokhara,Normal,Female,Sports and travel,590,1,8/20/2025,Credit card,590
+1071,A,Butwal,Normal,Female,Fashion accessories,924,4,6/28/2025,Credit card,3696
+1072,C,Biratnagar,Member,Male,Health and beauty,236,10,7/22/2025,Credit card,2360
+1073,B,Biratnagar,Normal,Female,Fashion accessories,657,5,5/30/2025,Ewallet,3285
+1074,A,Kathmandu,Member,Female,Sports and travel,207,7,1/26/2026,Ewallet,1449
+1075,A,Kathmandu,Member,Female,Electronic accessories,262,3,1/11/2026,Ewallet,786
+1076,C,Pokhara,Member,Male,Food and beverages,331,3,1/28/2026,Cash,993
+1077,B,Biratnagar,Normal,Male,Sports and travel,123,8,7/7/2025,Credit card,984
+1078,C,Kathmandu,Member,Male,Sports and travel,175,4,12/16/2025,Ewallet,700
+1079,A,Butwal,Member,Male,Health and beauty,616,1,6/27/2025,Cash,616
+1080,A,Lalitpur,Normal,Male,Electronic accessories,999,1,9/24/2025,Credit card,999
+1081,A,Kathmandu,Normal,Female,Sports and travel,417,3,7/8/2025,Ewallet,1251
+1082,B,Lalitpur,Normal,Female,Health and beauty,944,5,8/25/2025,Cash,4720
+1083,A,Kathmandu,Normal,Female,Electronic accessories,611,2,5/21/2025,Credit card,1222
+1084,A,Kathmandu,Normal,Male,Food and beverages,416,5,5/9/2025,Ewallet,2080
+1085,A,Biratnagar,Member,Male,Fashion accessories,883,2,7/14/2025,Ewallet,1766
+1086,A,Biratnagar,Normal,Male,Health and beauty,464,9,10/18/2025,Credit card,4176
+1087,A,Pokhara,Normal,Male,Sports and travel,556,6,3/15/2026,Ewallet,3336
+1088,C,Butwal,Member,Male,Health and beauty,398,8,1/4/2026,Ewallet,3184
+1089,C,Biratnagar,Member,Female,Electronic accessories,424,6,12/31/2025,Credit card,2544
+1090,C,Butwal,Member,Female,Health and beauty,817,6,1/4/2026,Cash,4902
+1091,C,Lalitpur,Normal,Female,Sports and travel,305,2,3/16/2026,Cash,610
+1092,A,Butwal,Normal,Male,Sports and travel,743,10,8/25/2025,Cash,7430
+1093,C,Kathmandu,Member,Male,Sports and travel,111,2,7/23/2025,Ewallet,222
+1094,A,Biratnagar,Member,Male,Sports and travel,512,6,5/14/2025,Credit card,3072
+1095,B,Kathmandu,Normal,Female,Fashion accessories,725,5,5/12/2025,Credit card,3625
+1096,A,Pokhara,Member,Male,Electronic accessories,943,10,4/11/2025,Ewallet,9430
+1097,B,Butwal,Member,Female,Health and beauty,230,2,5/7/2025,Credit card,460
+1098,A,Biratnagar,Member,Female,Health and beauty,916,1,1/25/2026,Cash,916
+1099,C,Lalitpur,Member,Male,Fashion accessories,973,1,3/25/2025,Cash,973
+1100,A,Biratnagar,Normal,Female,Electronic accessories,782,7,10/7/2025,Cash,5474
+1101,A,Kathmandu,Member,Male,Sports and travel,451,4,3/29/2025,Cash,1804
+1102,B,Butwal,Normal,Female,Food and beverages,672,6,6/2/2025,Ewallet,4032
+1103,B,Biratnagar,Member,Male,Food and beverages,825,3,2/1/2026,Ewallet,2475
+1104,A,Lalitpur,Member,Female,Fashion accessories,833,1,6/26/2025,Credit card,833
+1105,C,Butwal,Normal,Male,Fashion accessories,593,4,6/16/2025,Credit card,2372
+1106,B,Kathmandu,Normal,Female,Health and beauty,796,5,10/1/2025,Cash,3980
+1107,B,Kathmandu,Member,Female,Food and beverages,725,6,7/9/2025,Cash,4350
+1108,C,Kathmandu,Member,Male,Food and beverages,343,9,11/24/2025,Ewallet,3087
+1109,C,Lalitpur,Normal,Male,Food and beverages,979,5,2/2/2026,Credit card,4895
+1110,B,Lalitpur,Member,Male,Fashion accessories,674,9,12/7/2025,Cash,6066
+1111,B,Butwal,Member,Male,Electronic accessories,369,3,8/4/2025,Credit card,1107
+1112,B,Biratnagar,Member,Female,Electronic accessories,555,10,8/12/2025,Ewallet,5550
+1113,A,Biratnagar,Member,Male,Food and beverages,967,3,3/28/2025,Cash,2901
+1114,B,Kathmandu,Member,Female,Food and beverages,475,10,4/25/2025,Cash,4750
+1115,A,Pokhara,Normal,Male,Health and beauty,873,5,2/19/2026,Credit card,4365
+1116,A,Lalitpur,Member,Female,Sports and travel,592,10,6/22/2025,Cash,5920
+1117,B,Pokhara,Normal,Male,Electronic accessories,952,4,12/23/2025,Credit card,3808
+1118,C,Lalitpur,Normal,Female,Fashion accessories,149,4,2/3/2026,Cash,596
+1119,B,Biratnagar,Member,Male,Food and beverages,281,9,5/21/2025,Ewallet,2529
+1120,B,Lalitpur,Normal,Female,Electronic accessories,823,7,6/9/2025,Ewallet,5761
+1121,C,Biratnagar,Member,Male,Fashion accessories,119,5,8/18/2025,Credit card,595
+1122,B,Biratnagar,Member,Female,Fashion accessories,751,10,2/19/2026,Credit card,7510
+1123,B,Butwal,Member,Male,Fashion accessories,959,3,7/11/2025,Ewallet,2877
+1124,A,Biratnagar,Member,Female,Fashion accessories,250,5,9/15/2025,Cash,1250
+1125,A,Lalitpur,Member,Female,Electronic accessories,674,9,12/24/2025,Ewallet,6066
+1126,A,Lalitpur,Normal,Female,Electronic accessories,316,5,3/18/2026,Ewallet,1580
+1127,A,Kathmandu,Normal,Female,Food and beverages,326,7,11/7/2025,Credit card,2282
+1128,B,Pokhara,Member,Female,Fashion accessories,572,7,7/20/2025,Credit card,4004
+1129,B,Butwal,Normal,Female,Health and beauty,100,7,9/3/2025,Credit card,700
+1130,B,Pokhara,Member,Male,Sports and travel,737,1,6/27/2025,Credit card,737
+1131,C,Biratnagar,Normal,Female,Fashion accessories,596,5,12/28/2025,Ewallet,2980
+1132,B,Pokhara,Member,Female,Health and beauty,458,2,8/22/2025,Ewallet,916
+1133,C,Lalitpur,Normal,Male,Health and beauty,138,6,7/18/2025,Credit card,828
+1134,A,Butwal,Member,Female,Sports and travel,800,9,12/15/2025,Cash,7200
+1135,A,Kathmandu,Member,Female,Electronic accessories,692,7,9/10/2025,Ewallet,4844
+1136,A,Lalitpur,Member,Male,Health and beauty,683,6,6/28/2025,Credit card,4098
+1137,C,Pokhara,Normal,Female,Electronic accessories,861,7,2/9/2026,Credit card,6027
+1138,A,Lalitpur,Normal,Male,Health and beauty,214,7,11/30/2025,Cash,1498
+1139,C,Butwal,Member,Female,Fashion accessories,629,4,12/31/2025,Cash,2516
+1140,B,Biratnagar,Member,Male,Fashion accessories,368,3,7/18/2025,Ewallet,1104
+1141,B,Biratnagar,Member,Female,Electronic accessories,406,4,4/13/2025,Credit card,1624
+1142,A,Lalitpur,Member,Male,Electronic accessories,779,1,2/19/2026,Credit card,779
+1143,C,Butwal,Member,Male,Sports and travel,559,9,10/18/2025,Credit card,5031
+1144,B,Kathmandu,Normal,Female,Health and beauty,732,6,5/4/2025,Cash,4392
+1145,A,Butwal,Normal,Female,Electronic accessories,915,6,2/9/2026,Ewallet,5490
+1146,C,Butwal,Member,Female,Sports and travel,258,4,7/14/2025,Cash,1032
+1147,B,Pokhara,Member,Female,Sports and travel,825,1,8/7/2025,Ewallet,825
+1148,A,Biratnagar,Member,Female,Health and beauty,439,6,7/28/2025,Ewallet,2634
+1149,C,Lalitpur,Member,Male,Electronic accessories,542,7,9/19/2025,Credit card,3794
+1150,A,Kathmandu,Normal,Male,Food and beverages,694,4,7/12/2025,Ewallet,2776
+1151,A,Kathmandu,Normal,Female,Sports and travel,686,2,8/29/2025,Credit card,1372
+1152,C,Kathmandu,Normal,Male,Food and beverages,165,2,8/6/2025,Credit card,330
+1153,C,Pokhara,Member,Male,Food and beverages,127,2,9/30/2025,Cash,254
+1154,B,Pokhara,Normal,Female,Sports and travel,782,10,1/11/2026,Cash,7820
+1155,C,Butwal,Normal,Male,Fashion accessories,441,10,7/21/2025,Credit card,4410
+1156,B,Pokhara,Normal,Male,Fashion accessories,710,3,5/3/2025,Cash,2130
+1157,C,Pokhara,Member,Female,Health and beauty,481,3,5/24/2025,Credit card,1443
+1158,B,Kathmandu,Normal,Female,Health and beauty,854,9,1/1/2026,Ewallet,7686
+1159,B,Pokhara,Member,Female,Electronic accessories,915,4,7/20/2025,Ewallet,3660
+1160,A,Kathmandu,Normal,Female,Health and beauty,901,5,5/22/2025,Cash,4505
+1161,B,Biratnagar,Normal,Female,Sports and travel,710,5,7/29/2025,Ewallet,3550
+1162,B,Lalitpur,Member,Male,Fashion accessories,309,8,3/3/2026,Cash,2472
+1163,C,Pokhara,Normal,Female,Sports and travel,692,4,3/10/2026,Credit card,2768
+1164,A,Butwal,Normal,Male,Fashion accessories,487,3,9/6/2025,Credit card,1461
+1165,B,Biratnagar,Normal,Male,Sports and travel,793,5,10/6/2025,Cash,3965
+1166,C,Butwal,Normal,Male,Electronic accessories,906,10,2/15/2026,Credit card,9060
+1167,C,Biratnagar,Normal,Female,Food and beverages,595,2,5/16/2025,Credit card,1190
+1168,A,Biratnagar,Normal,Male,Food and beverages,652,7,3/5/2026,Credit card,4564
+1169,A,Lalitpur,Member,Female,Fashion accessories,294,5,4/19/2025,Ewallet,1470
+1170,B,Lalitpur,Normal,Female,Electronic accessories,245,6,5/2/2025,Credit card,1470
+1171,B,Pokhara,Normal,Male,Fashion accessories,187,7,5/11/2025,Credit card,1309
+1172,A,Kathmandu,Member,Female,Health and beauty,326,7,10/30/2025,Credit card,2282
+1173,A,Lalitpur,Normal,Female,Food and beverages,580,3,10/25/2025,Ewallet,1740
+1174,C,Pokhara,Normal,Male,Electronic accessories,880,3,8/23/2025,Ewallet,2640
+1175,B,Lalitpur,Normal,Female,Fashion accessories,739,8,10/24/2025,Cash,5912
+1176,B,Butwal,Normal,Female,Sports and travel,620,6,10/3/2025,Credit card,3720
+1177,B,Butwal,Normal,Female,Electronic accessories,723,7,5/31/2025,Credit card,5061
+1178,B,Kathmandu,Member,Male,Electronic accessories,753,5,7/31/2025,Credit card,3765
+1179,B,Lalitpur,Member,Female,Food and beverages,957,10,2/10/2026,Credit card,9570
+1180,A,Pokhara,Normal,Female,Fashion accessories,714,4,3/15/2026,Credit card,2856
+1181,C,Kathmandu,Normal,Female,Fashion accessories,361,3,1/16/2026,Cash,1083
+1182,A,Lalitpur,Member,Female,Electronic accessories,722,1,6/27/2025,Cash,722
+1183,A,Butwal,Normal,Female,Food and beverages,473,4,1/15/2026,Cash,1892
+1184,A,Lalitpur,Normal,Female,Fashion accessories,860,6,6/22/2025,Cash,5160
+1185,C,Biratnagar,Member,Male,Food and beverages,970,10,9/16/2025,Cash,9700
+1186,B,Lalitpur,Normal,Female,Electronic accessories,711,1,1/9/2026,Credit card,711
+1187,B,Biratnagar,Member,Female,Health and beauty,510,9,7/26/2025,Cash,4590
+1188,A,Kathmandu,Member,Female,Food and beverages,474,10,1/7/2026,Cash,4740
+1189,C,Kathmandu,Member,Male,Fashion accessories,274,10,2/4/2026,Cash,2740
+1190,C,Butwal,Normal,Male,Electronic accessories,482,1,12/15/2025,Credit card,482
+1191,B,Biratnagar,Normal,Male,Fashion accessories,394,9,6/18/2025,Credit card,3546
+1192,B,Pokhara,Member,Male,Electronic accessories,663,5,3/26/2025,Cash,3315
+1193,B,Kathmandu,Member,Male,Food and beverages,900,7,1/3/2026,Credit card,6300
+1194,A,Pokhara,Normal,Male,Sports and travel,189,5,2/26/2026,Ewallet,945
+1195,A,Biratnagar,Normal,Male,Health and beauty,124,5,10/18/2025,Ewallet,620
+1196,B,Pokhara,Normal,Female,Electronic accessories,360,8,12/13/2025,Cash,2880
+1197,B,Biratnagar,Member,Female,Fashion accessories,455,6,4/8/2025,Credit card,2730
+1198,C,Kathmandu,Normal,Female,Fashion accessories,599,9,2/17/2026,Ewallet,5391
+1199,A,Butwal,Normal,Female,Sports and travel,532,5,9/24/2025,Cash,2660
+1200,A,Butwal,Member,Male,Fashion accessories,453,2,7/9/2025,Cash,906
+1201,A,Biratnagar,Member,Female,Electronic accessories,466,3,12/28/2025,Credit card,1398
+1202,B,Lalitpur,Member,Male,Health and beauty,538,4,9/10/2025,Ewallet,2152
+1203,A,Lalitpur,Normal,Male,Food and beverages,456,10,2/1/2026,Credit card,4560
+1204,B,Kathmandu,Member,Female,Fashion accessories,282,2,10/25/2025,Credit card,564
+1205,C,Biratnagar,Member,Male,Fashion accessories,625,4,7/14/2025,Credit card,2500
+1206,B,Kathmandu,Normal,Female,Food and beverages,836,4,11/30/2025,Credit card,3344
+1207,B,Biratnagar,Member,Male,Electronic accessories,832,3,10/17/2025,Cash,2496
+1208,A,Butwal,Member,Male,Fashion accessories,423,5,3/30/2025,Cash,2115
+1209,C,Butwal,Member,Female,Sports and travel,748,2,4/30/2025,Cash,1496
+1210,A,Pokhara,Normal,Male,Electronic accessories,768,10,12/7/2025,Ewallet,7680
+1211,B,Pokhara,Normal,Male,Health and beauty,708,2,8/11/2025,Credit card,1416
+1212,B,Butwal,Normal,Female,Food and beverages,506,8,6/16/2025,Cash,4048
+1213,A,Lalitpur,Member,Female,Food and beverages,896,8,3/23/2026,Ewallet,7168
+1214,C,Pokhara,Member,Female,Food and beverages,147,5,9/2/2025,Ewallet,735
+1215,B,Butwal,Member,Male,Food and beverages,764,7,8/29/2025,Ewallet,5348
+1216,B,Lalitpur,Member,Male,Health and beauty,253,6,6/17/2025,Ewallet,1518
+1217,B,Butwal,Normal,Female,Food and beverages,358,7,7/27/2025,Ewallet,2506
+1218,B,Biratnagar,Member,Female,Fashion accessories,873,2,12/28/2025,Credit card,1746
+1219,A,Kathmandu,Normal,Male,Fashion accessories,624,2,12/27/2025,Ewallet,1248
+1220,C,Pokhara,Normal,Female,Health and beauty,724,6,12/16/2025,Cash,4344
+1221,C,Kathmandu,Member,Male,Fashion accessories,246,4,8/14/2025,Cash,984
+1222,C,Pokhara,Normal,Male,Food and beverages,432,3,6/20/2025,Credit card,1296
+1223,A,Butwal,Normal,Female,Electronic accessories,199,10,12/22/2025,Cash,1990
+1224,C,Butwal,Member,Female,Food and beverages,511,2,12/19/2025,Ewallet,1022
+1225,A,Lalitpur,Member,Male,Electronic accessories,972,5,7/1/2025,Credit card,4860
+1226,B,Butwal,Normal,Female,Electronic accessories,534,8,10/4/2025,Cash,4272
+1227,C,Butwal,Normal,Female,Fashion accessories,208,4,3/29/2025,Ewallet,832
+1228,C,Butwal,Member,Female,Electronic accessories,249,1,7/12/2025,Credit card,249
+1229,A,Biratnagar,Normal,Male,Food and beverages,130,2,3/11/2026,Credit card,260
+1230,A,Lalitpur,Normal,Female,Electronic accessories,922,1,10/11/2025,Cash,922
+1231,C,Biratnagar,Normal,Male,Health and beauty,679,5,2/19/2026,Cash,3395
+1232,B,Lalitpur,Normal,Female,Health and beauty,452,7,7/13/2025,Ewallet,3164
+1233,A,Kathmandu,Member,Female,Health and beauty,869,10,3/12/2026,Cash,8690
+1234,B,Biratnagar,Member,Female,Health and beauty,788,9,10/15/2025,Cash,7092
+1235,C,Butwal,Member,Male,Electronic accessories,308,10,1/14/2026,Ewallet,3080
+1236,A,Kathmandu,Normal,Male,Food and beverages,447,3,10/8/2025,Credit card,1341
+1237,B,Butwal,Normal,Male,Fashion accessories,910,4,11/19/2025,Credit card,3640
+1238,A,Biratnagar,Normal,Male,Health and beauty,841,2,8/6/2025,Ewallet,1682
+1239,C,Biratnagar,Normal,Male,Electronic accessories,413,2,7/11/2025,Cash,826
+1240,A,Pokhara,Member,Female,Electronic accessories,120,2,10/20/2025,Ewallet,240
+1241,C,Butwal,Member,Male,Food and beverages,161,1,4/8/2025,Ewallet,161
+1242,A,Pokhara,Normal,Female,Food and beverages,267,8,3/21/2026,Credit card,2136
+1243,C,Butwal,Normal,Female,Fashion accessories,476,4,12/14/2025,Cash,1904
+1244,B,Kathmandu,Member,Male,Fashion accessories,511,1,8/7/2025,Cash,511
+1245,B,Kathmandu,Normal,Female,Fashion accessories,833,3,11/5/2025,Cash,2499
+1246,A,Kathmandu,Normal,Male,Health and beauty,226,3,3/27/2025,Credit card,678
+1247,C,Pokhara,Normal,Female,Sports and travel,500,8,1/18/2026,Ewallet,4000
+1248,B,Lalitpur,Member,Male,Sports and travel,969,7,10/28/2025,Cash,6783
+1249,A,Kathmandu,Normal,Male,Food and beverages,311,10,9/24/2025,Cash,3110
+1250,B,Pokhara,Normal,Male,Electronic accessories,330,8,8/12/2025,Credit card,2640
+1251,A,Kathmandu,Member,Female,Fashion accessories,812,10,8/16/2025,Credit card,8120
+1252,B,Butwal,Normal,Male,Food and beverages,384,5,4/17/2025,Ewallet,1920
+1253,B,Butwal,Normal,Male,Food and beverages,733,6,8/4/2025,Credit card,4398
+1254,A,Biratnagar,Normal,Male,Food and beverages,207,8,1/25/2026,Cash,1656
+1255,A,Pokhara,Member,Female,Fashion accessories,322,9,8/27/2025,Cash,2898
+1256,C,Pokhara,Normal,Male,Health and beauty,838,5,5/1/2025,Credit card,4190
+1257,A,Biratnagar,Normal,Female,Fashion accessories,244,3,6/22/2025,Cash,732
+1258,B,Butwal,Member,Male,Sports and travel,443,5,8/17/2025,Ewallet,2215
+1259,B,Kathmandu,Normal,Male,Sports and travel,697,7,1/17/2026,Credit card,4879
+1260,B,Kathmandu,Member,Female,Food and beverages,474,5,8/4/2025,Ewallet,2370
+1261,C,Lalitpur,Member,Male,Food and beverages,523,1,11/13/2025,Credit card,523
+1262,B,Lalitpur,Normal,Male,Fashion accessories,607,9,4/30/2025,Ewallet,5463
+1263,C,Kathmandu,Member,Male,Fashion accessories,250,1,3/10/2026,Ewallet,250
+1264,C,Pokhara,Normal,Male,Sports and travel,890,4,7/29/2025,Ewallet,3560
+1265,C,Biratnagar,Normal,Female,Food and beverages,102,9,8/31/2025,Ewallet,918
+1266,C,Biratnagar,Member,Male,Electronic accessories,406,6,10/3/2025,Credit card,2436
+1267,C,Kathmandu,Member,Female,Health and beauty,485,8,9/20/2025,Ewallet,3880
+1268,B,Biratnagar,Normal,Female,Health and beauty,992,8,2/14/2026,Cash,7936
+1269,C,Kathmandu,Normal,Female,Sports and travel,294,6,3/7/2026,Ewallet,1764
+1270,B,Pokhara,Normal,Male,Health and beauty,133,4,5/26/2025,Ewallet,532
+1271,B,Kathmandu,Member,Male,Health and beauty,339,2,9/21/2025,Credit card,678
+1272,A,Kathmandu,Normal,Male,Sports and travel,237,2,2/4/2026,Cash,474
+1273,B,Biratnagar,Normal,Female,Electronic accessories,117,10,9/8/2025,Cash,1170
+1274,C,Pokhara,Member,Female,Electronic accessories,490,3,3/4/2026,Credit card,1470
+1275,C,Kathmandu,Normal,Male,Electronic accessories,615,8,9/22/2025,Credit card,4920
+1276,C,Biratnagar,Member,Male,Health and beauty,670,5,11/17/2025,Credit card,3350
+1277,B,Lalitpur,Normal,Male,Fashion accessories,774,10,2/28/2026,Ewallet,7740
+1278,B,Kathmandu,Normal,Female,Electronic accessories,415,10,6/19/2025,Ewallet,4150
+1279,C,Kathmandu,Normal,Male,Electronic accessories,288,2,11/6/2025,Cash,576
+1280,B,Butwal,Member,Female,Health and beauty,737,7,3/26/2025,Credit card,5159
+1281,B,Butwal,Member,Female,Health and beauty,411,6,8/12/2025,Credit card,2466
+1282,C,Lalitpur,Normal,Female,Food and beverages,827,1,1/9/2026,Credit card,827
+1283,C,Biratnagar,Member,Male,Food and beverages,219,5,6/6/2025,Credit card,1095
+1284,B,Butwal,Normal,Male,Sports and travel,558,9,4/7/2025,Ewallet,5022
+1285,C,Lalitpur,Normal,Female,Electronic accessories,386,5,2/6/2026,Cash,1930
+1286,A,Biratnagar,Member,Male,Electronic accessories,180,1,11/20/2025,Ewallet,180
+1287,A,Butwal,Normal,Male,Health and beauty,459,4,9/14/2025,Cash,1836
+1288,A,Butwal,Normal,Female,Food and beverages,868,9,2/9/2026,Cash,7812
+1289,A,Kathmandu,Member,Male,Sports and travel,293,1,11/7/2025,Cash,293
+1290,A,Butwal,Normal,Female,Electronic accessories,116,5,4/7/2025,Ewallet,580
+1291,A,Kathmandu,Normal,Female,Sports and travel,311,9,4/25/2025,Credit card,2799
+1292,C,Butwal,Normal,Male,Health and beauty,397,10,4/4/2025,Ewallet,3970
+1293,C,Kathmandu,Member,Female,Fashion accessories,840,7,3/18/2026,Ewallet,5880
+1294,B,Pokhara,Normal,Male,Food and beverages,163,2,11/23/2025,Credit card,326
+1295,A,Lalitpur,Normal,Female,Sports and travel,266,2,6/29/2025,Credit card,532
+1296,A,Kathmandu,Member,Male,Electronic accessories,453,5,3/28/2025,Credit card,2265
+1297,B,Lalitpur,Member,Male,Health and beauty,205,2,10/7/2025,Credit card,410
+1298,B,Biratnagar,Normal,Male,Food and beverages,464,4,2/23/2026,Cash,1856
+1299,A,Pokhara,Normal,Female,Sports and travel,692,9,10/4/2025,Ewallet,6228
+1300,A,Butwal,Member,Female,Health and beauty,763,5,8/7/2025,Cash,3815
+1301,B,Pokhara,Normal,Male,Health and beauty,267,9,6/26/2025,Cash,2403
+1302,C,Lalitpur,Member,Female,Food and beverages,630,7,12/7/2025,Ewallet,4410
+1303,C,Biratnagar,Member,Male,Fashion accessories,623,2,8/11/2025,Cash,1246
+1304,A,Butwal,Member,Male,Fashion accessories,228,8,1/3/2026,Credit card,1824
+1305,C,Lalitpur,Normal,Male,Health and beauty,433,1,4/8/2025,Ewallet,433
+1306,C,Pokhara,Normal,Male,Electronic accessories,690,7,6/18/2025,Credit card,4830
+1307,C,Pokhara,Member,Female,Health and beauty,555,7,3/20/2026,Cash,3885
+1308,B,Kathmandu,Normal,Male,Fashion accessories,182,8,11/17/2025,Credit card,1456
+1309,A,Lalitpur,Normal,Female,Fashion accessories,1000,1,12/29/2025,Credit card,1000
+1310,A,Pokhara,Normal,Male,Fashion accessories,106,3,4/22/2025,Cash,318
+1311,A,Kathmandu,Member,Male,Health and beauty,664,1,2/28/2026,Credit card,664
+1312,C,Pokhara,Normal,Female,Sports and travel,494,4,4/8/2025,Ewallet,1976
+1313,C,Lalitpur,Member,Male,Food and beverages,473,6,6/16/2025,Credit card,2838
+1314,B,Pokhara,Member,Female,Electronic accessories,979,9,4/23/2025,Credit card,8811
+1315,C,Lalitpur,Member,Male,Sports and travel,124,1,12/11/2025,Credit card,124
+1316,C,Kathmandu,Normal,Female,Sports and travel,422,9,5/3/2025,Credit card,3798
+1317,C,Lalitpur,Member,Female,Fashion accessories,313,6,3/31/2025,Credit card,1878
+1318,B,Kathmandu,Member,Female,Sports and travel,737,9,10/12/2025,Cash,6633
+1319,C,Pokhara,Member,Male,Food and beverages,744,1,8/5/2025,Credit card,744
+1320,B,Kathmandu,Normal,Female,Food and beverages,682,10,9/16/2025,Ewallet,6820
+1321,B,Kathmandu,Member,Female,Sports and travel,656,6,9/8/2025,Credit card,3936
+1322,C,Biratnagar,Normal,Female,Fashion accessories,917,2,7/20/2025,Cash,1834
+1323,A,Butwal,Member,Male,Sports and travel,816,4,7/30/2025,Cash,3264
+1324,A,Lalitpur,Member,Female,Electronic accessories,297,6,6/29/2025,Credit card,1782
+1325,C,Pokhara,Normal,Female,Sports and travel,863,1,2/10/2026,Ewallet,863
+1326,C,Pokhara,Normal,Male,Food and beverages,307,6,7/2/2025,Ewallet,1842
+1327,C,Butwal,Normal,Male,Electronic accessories,735,10,1/28/2026,Ewallet,7350
+1328,A,Lalitpur,Normal,Male,Health and beauty,274,7,4/2/2025,Cash,1918
+1329,B,Lalitpur,Member,Male,Electronic accessories,903,1,3/18/2026,Cash,903
+1330,A,Pokhara,Member,Female,Sports and travel,478,3,5/3/2025,Cash,1434
+1331,C,Biratnagar,Member,Male,Health and beauty,382,9,1/16/2026,Ewallet,3438
+1332,B,Butwal,Member,Female,Food and beverages,892,7,5/3/2025,Ewallet,6244
+1333,C,Pokhara,Member,Male,Food and beverages,737,1,7/7/2025,Cash,737
+1334,A,Pokhara,Normal,Female,Food and beverages,480,5,2/23/2026,Ewallet,2400
+1335,B,Lalitpur,Normal,Female,Food and beverages,908,6,2/10/2026,Ewallet,5448
+1336,B,Butwal,Member,Male,Fashion accessories,158,2,5/3/2025,Ewallet,316
+1337,A,Kathmandu,Normal,Female,Electronic accessories,819,7,5/6/2025,Credit card,5733
+1338,B,Butwal,Member,Female,Health and beauty,980,10,7/28/2025,Cash,9800
+1339,B,Pokhara,Normal,Male,Fashion accessories,397,2,12/20/2025,Ewallet,794
+1340,C,Biratnagar,Normal,Female,Fashion accessories,966,9,12/1/2025,Credit card,8694
+1341,C,Butwal,Normal,Male,Sports and travel,888,7,11/16/2025,Ewallet,6216
+1342,A,Biratnagar,Normal,Female,Food and beverages,939,10,5/10/2025,Cash,9390
+1343,A,Pokhara,Member,Male,Electronic accessories,453,3,11/2/2025,Cash,1359
+1344,B,Butwal,Normal,Male,Electronic accessories,500,6,7/18/2025,Ewallet,3000
+1345,B,Kathmandu,Normal,Female,Fashion accessories,196,4,2/11/2026,Credit card,784
+1346,C,Butwal,Normal,Male,Food and beverages,491,10,4/4/2025,Credit card,4910
+1347,B,Butwal,Normal,Male,Sports and travel,763,3,8/12/2025,Ewallet,2289
+1348,B,Butwal,Member,Male,Electronic accessories,501,3,8/22/2025,Ewallet,1503
+1349,C,Butwal,Member,Female,Sports and travel,833,7,2/23/2026,Ewallet,5831
+1350,B,Kathmandu,Normal,Female,Electronic accessories,479,8,8/14/2025,Credit card,3832
+1351,A,Biratnagar,Member,Male,Health and beauty,730,9,3/20/2026,Credit card,6570
+1352,B,Biratnagar,Normal,Male,Fashion accessories,139,7,3/18/2026,Ewallet,973
+1353,C,Butwal,Member,Male,Sports and travel,840,2,5/4/2025,Credit card,1680
+1354,B,Butwal,Normal,Male,Electronic accessories,746,9,3/28/2025,Cash,6714
+1355,A,Pokhara,Normal,Male,Fashion accessories,981,2,11/23/2025,Cash,1962
+1356,C,Pokhara,Normal,Female,Sports and travel,121,7,5/15/2025,Cash,847
+1357,C,Kathmandu,Normal,Female,Food and beverages,648,2,7/14/2025,Ewallet,1296
+1358,A,Pokhara,Normal,Female,Health and beauty,193,1,1/25/2026,Ewallet,193
+1359,B,Kathmandu,Normal,Male,Sports and travel,701,6,6/18/2025,Ewallet,4206
+1360,A,Kathmandu,Normal,Female,Fashion accessories,478,9,8/24/2025,Cash,4302
+1361,B,Biratnagar,Normal,Male,Health and beauty,116,1,6/20/2025,Credit card,116
+1362,C,Pokhara,Normal,Male,Health and beauty,295,6,10/4/2025,Cash,1770
+1363,A,Biratnagar,Member,Female,Sports and travel,612,2,1/2/2026,Credit card,1224
+1364,B,Pokhara,Normal,Male,Health and beauty,514,7,8/26/2025,Cash,3598
+1365,C,Pokhara,Member,Female,Food and beverages,525,5,6/20/2025,Credit card,2625
+1366,A,Biratnagar,Member,Female,Fashion accessories,404,3,9/9/2025,Ewallet,1212
+1367,A,Kathmandu,Normal,Female,Fashion accessories,579,3,12/27/2025,Cash,1737
+1368,C,Pokhara,Normal,Female,Health and beauty,451,6,10/13/2025,Credit card,2706
+1369,C,Kathmandu,Member,Female,Health and beauty,561,3,2/14/2026,Ewallet,1683
+1370,C,Pokhara,Member,Female,Sports and travel,759,1,11/17/2025,Ewallet,759
+1371,A,Pokhara,Normal,Female,Food and beverages,536,1,5/1/2025,Ewallet,536
+1372,A,Pokhara,Member,Male,Sports and travel,746,4,1/19/2026,Cash,2984
+1373,C,Kathmandu,Member,Male,Sports and travel,765,8,6/1/2025,Credit card,6120
+1374,C,Lalitpur,Member,Female,Sports and travel,274,4,6/12/2025,Credit card,1096
+1375,B,Biratnagar,Normal,Female,Health and beauty,373,1,4/26/2025,Ewallet,373
+1376,A,Lalitpur,Member,Male,Electronic accessories,377,3,2/5/2026,Ewallet,1131
+1377,B,Butwal,Normal,Female,Fashion accessories,200,5,9/9/2025,Ewallet,1000
+1378,B,Biratnagar,Normal,Female,Electronic accessories,292,9,9/14/2025,Credit card,2628
+1379,B,Kathmandu,Member,Female,Sports and travel,908,7,1/30/2026,Credit card,6356
+1380,B,Butwal,Member,Male,Electronic accessories,837,4,10/23/2025,Credit card,3348
+1381,A,Biratnagar,Member,Male,Sports and travel,266,5,7/23/2025,Ewallet,1330
+1382,C,Lalitpur,Member,Male,Sports and travel,718,8,12/6/2025,Ewallet,5744
+1383,B,Pokhara,Member,Female,Food and beverages,340,3,9/24/2025,Ewallet,1020
+1384,B,Pokhara,Normal,Male,Food and beverages,316,2,11/15/2025,Ewallet,632
+1385,A,Biratnagar,Member,Male,Electronic accessories,973,8,1/20/2026,Cash,7784
+1386,A,Lalitpur,Normal,Female,Fashion accessories,855,4,4/6/2025,Ewallet,3420
+1387,A,Lalitpur,Normal,Male,Health and beauty,328,7,2/14/2026,Credit card,2296
+1388,C,Butwal,Member,Female,Fashion accessories,789,6,6/12/2025,Credit card,4734
+1389,C,Lalitpur,Normal,Male,Fashion accessories,432,1,2/22/2026,Credit card,432
+1390,B,Pokhara,Normal,Male,Fashion accessories,383,5,1/28/2026,Credit card,1915
+1391,B,Lalitpur,Member,Female,Fashion accessories,213,8,5/3/2025,Ewallet,1704
+1392,B,Biratnagar,Normal,Female,Electronic accessories,328,1,6/23/2025,Ewallet,328
+1393,C,Kathmandu,Normal,Female,Sports and travel,154,9,4/6/2025,Credit card,1386
+1394,A,Lalitpur,Normal,Male,Electronic accessories,756,6,5/2/2025,Credit card,4536
+1395,B,Kathmandu,Normal,Female,Fashion accessories,813,4,5/27/2025,Cash,3252
+1396,B,Butwal,Member,Male,Food and beverages,648,2,11/25/2025,Cash,1296
+1397,B,Kathmandu,Member,Male,Health and beauty,759,8,7/16/2025,Ewallet,6072
+1398,B,Kathmandu,Normal,Male,Sports and travel,486,4,6/3/2025,Credit card,1944
+1399,A,Biratnagar,Member,Female,Sports and travel,889,9,3/31/2025,Credit card,8001
+1400,A,Lalitpur,Member,Male,Electronic accessories,559,4,4/13/2025,Ewallet,2236
+1401,B,Biratnagar,Member,Female,Electronic accessories,426,2,8/16/2025,Cash,852
+1402,B,Kathmandu,Normal,Female,Food and beverages,558,7,4/14/2025,Ewallet,3906
+1403,B,Biratnagar,Normal,Female,Health and beauty,425,3,9/13/2025,Ewallet,1275
+1404,A,Biratnagar,Normal,Male,Health and beauty,524,7,10/25/2025,Ewallet,3668
+1405,C,Biratnagar,Normal,Female,Fashion accessories,201,7,10/11/2025,Ewallet,1407
+1406,C,Lalitpur,Member,Male,Electronic accessories,806,2,1/29/2026,Credit card,1612
+1407,A,Pokhara,Member,Female,Fashion accessories,427,10,5/23/2025,Cash,4270
+1408,A,Biratnagar,Member,Female,Food and beverages,420,4,3/24/2025,Credit card,1680
+1409,B,Pokhara,Member,Male,Health and beauty,402,1,10/15/2025,Cash,402
+1410,A,Biratnagar,Normal,Male,Fashion accessories,190,4,3/27/2025,Credit card,760
+1411,C,Lalitpur,Member,Male,Fashion accessories,841,9,12/25/2025,Ewallet,7569
+1412,B,Lalitpur,Normal,Male,Sports and travel,226,5,3/16/2026,Credit card,1130
+1413,B,Kathmandu,Member,Female,Health and beauty,919,7,7/2/2025,Cash,6433
+1414,B,Kathmandu,Member,Male,Fashion accessories,639,9,10/18/2025,Ewallet,5751
+1415,C,Biratnagar,Normal,Female,Food and beverages,546,10,5/17/2025,Cash,5460
+1416,A,Biratnagar,Member,Male,Health and beauty,545,10,3/16/2026,Ewallet,5450
+1417,A,Kathmandu,Normal,Female,Sports and travel,238,10,6/20/2025,Ewallet,2380
+1418,C,Kathmandu,Member,Female,Health and beauty,508,2,3/8/2026,Cash,1016
+1419,C,Lalitpur,Normal,Male,Electronic accessories,633,6,11/1/2025,Credit card,3798
+1420,A,Butwal,Member,Male,Food and beverages,606,9,4/30/2025,Cash,5454
+1421,B,Butwal,Member,Female,Health and beauty,350,10,1/11/2026,Cash,3500
+1422,B,Biratnagar,Normal,Female,Food and beverages,895,4,3/14/2026,Cash,3580
+1423,A,Biratnagar,Normal,Male,Food and beverages,137,1,7/18/2025,Ewallet,137
+1424,A,Biratnagar,Member,Male,Food and beverages,188,10,1/25/2026,Credit card,1880
+1425,B,Pokhara,Member,Female,Health and beauty,311,1,6/11/2025,Ewallet,311
+1426,A,Biratnagar,Normal,Female,Health and beauty,890,6,8/4/2025,Cash,5340
+1427,A,Biratnagar,Member,Female,Electronic accessories,774,5,4/20/2025,Cash,3870
+1428,B,Pokhara,Member,Male,Fashion accessories,577,2,12/21/2025,Ewallet,1154
+1429,C,Lalitpur,Member,Male,Electronic accessories,184,2,12/19/2025,Credit card,368
+1430,B,Lalitpur,Normal,Male,Health and beauty,897,5,5/24/2025,Cash,4485
+1431,B,Biratnagar,Normal,Female,Sports and travel,327,1,2/2/2026,Credit card,327
+1432,C,Lalitpur,Member,Male,Fashion accessories,505,4,12/25/2025,Ewallet,2020
+1433,B,Butwal,Normal,Female,Fashion accessories,105,10,8/29/2025,Ewallet,1050
+1434,A,Biratnagar,Normal,Male,Health and beauty,335,3,8/17/2025,Credit card,1005
+1435,B,Biratnagar,Normal,Male,Fashion accessories,187,3,2/10/2026,Credit card,561
+1436,C,Butwal,Member,Female,Electronic accessories,603,6,11/6/2025,Ewallet,3618
+1437,B,Pokhara,Member,Male,Food and beverages,196,2,5/24/2025,Cash,392
+1438,A,Lalitpur,Normal,Female,Fashion accessories,830,4,5/23/2025,Cash,3320
+1439,A,Butwal,Member,Female,Sports and travel,477,1,12/25/2025,Credit card,477
+1440,C,Kathmandu,Normal,Female,Electronic accessories,596,1,2/5/2026,Credit card,596
+1441,C,Lalitpur,Member,Male,Fashion accessories,293,7,3/1/2026,Ewallet,2051
+1442,A,Biratnagar,Normal,Female,Health and beauty,713,10,10/17/2025,Ewallet,7130
+1443,A,Pokhara,Normal,Female,Fashion accessories,869,9,6/25/2025,Cash,7821
+1444,B,Butwal,Member,Female,Food and beverages,688,1,7/4/2025,Ewallet,688
+1445,C,Pokhara,Normal,Female,Fashion accessories,462,1,10/5/2025,Credit card,462
+1446,C,Pokhara,Normal,Female,Health and beauty,277,6,5/27/2025,Credit card,1662
+1447,A,Kathmandu,Normal,Male,Health and beauty,838,5,1/22/2026,Credit card,4190
+1448,C,Pokhara,Member,Male,Sports and travel,565,1,6/5/2025,Credit card,565
+1449,B,Butwal,Normal,Male,Electronic accessories,518,3,1/2/2026,Ewallet,1554
+1450,B,Kathmandu,Member,Male,Sports and travel,294,8,5/5/2025,Cash,2352
+1451,A,Biratnagar,Normal,Female,Sports and travel,825,4,5/17/2025,Credit card,3300
+1452,C,Lalitpur,Normal,Male,Electronic accessories,122,7,8/31/2025,Ewallet,854
+1453,A,Lalitpur,Member,Female,Health and beauty,643,5,4/10/2025,Cash,3215
+1454,A,Biratnagar,Normal,Female,Food and beverages,179,8,6/20/2025,Credit card,1432
+1455,A,Lalitpur,Member,Male,Sports and travel,893,4,1/3/2026,Credit card,3572
+1456,A,Biratnagar,Normal,Male,Health and beauty,269,8,1/14/2026,Credit card,2152
+1457,B,Lalitpur,Normal,Female,Food and beverages,589,9,1/15/2026,Ewallet,5301
+1458,A,Kathmandu,Member,Male,Sports and travel,984,7,5/15/2025,Cash,6888
+1459,A,Kathmandu,Normal,Female,Health and beauty,867,10,3/23/2026,Ewallet,8670
+1460,B,Butwal,Member,Female,Electronic accessories,656,6,5/15/2025,Credit card,3936
+1461,B,Pokhara,Normal,Female,Fashion accessories,128,6,8/2/2025,Cash,768
+1462,C,Pokhara,Normal,Male,Food and beverages,993,1,3/15/2026,Ewallet,993
+1463,C,Pokhara,Normal,Female,Fashion accessories,552,8,9/24/2025,Ewallet,4416
+1464,B,Kathmandu,Normal,Male,Fashion accessories,552,2,5/15/2025,Ewallet,1104
+1465,C,Lalitpur,Member,Male,Electronic accessories,396,8,1/7/2026,Cash,3168
+1466,A,Pokhara,Normal,Female,Electronic accessories,228,3,3/20/2026,Cash,684
+1467,A,Kathmandu,Member,Male,Health and beauty,492,9,7/4/2025,Credit card,4428
+1468,A,Pokhara,Normal,Female,Sports and travel,723,10,7/4/2025,Credit card,7230
+1469,C,Pokhara,Member,Male,Sports and travel,627,9,12/13/2025,Ewallet,5643
+1470,A,Pokhara,Normal,Male,Health and beauty,339,7,10/12/2025,Cash,2373
+1471,A,Biratnagar,Normal,Female,Fashion accessories,647,5,6/19/2025,Credit card,3235
+1472,B,Butwal,Normal,Male,Food and beverages,772,8,2/3/2026,Credit card,6176
+1473,A,Biratnagar,Member,Male,Fashion accessories,762,9,4/26/2025,Cash,6858
+1474,B,Lalitpur,Normal,Male,Electronic accessories,699,5,1/3/2026,Cash,3495
+1475,C,Pokhara,Normal,Male,Electronic accessories,862,7,10/14/2025,Credit card,6034
+1476,B,Pokhara,Member,Male,Sports and travel,931,9,12/19/2025,Ewallet,8379
+1477,C,Butwal,Member,Male,Health and beauty,847,2,4/7/2025,Cash,1694
+1478,B,Kathmandu,Member,Male,Electronic accessories,720,9,4/1/2025,Cash,6480
+1479,C,Kathmandu,Normal,Female,Fashion accessories,752,3,8/26/2025,Cash,2256
+1480,C,Lalitpur,Member,Female,Sports and travel,323,1,12/19/2025,Cash,323
+1481,C,Kathmandu,Normal,Male,Health and beauty,806,3,6/12/2025,Credit card,2418
+1482,B,Pokhara,Member,Male,Health and beauty,932,3,5/12/2025,Credit card,2796
+1483,A,Pokhara,Member,Female,Food and beverages,553,6,1/31/2026,Cash,3318
+1484,A,Biratnagar,Member,Female,Electronic accessories,560,9,6/25/2025,Ewallet,5040
+1485,B,Pokhara,Member,Male,Sports and travel,824,7,12/26/2025,Cash,5768
+1486,C,Lalitpur,Member,Female,Fashion accessories,125,6,7/10/2025,Ewallet,750
+1487,A,Kathmandu,Member,Male,Sports and travel,533,4,3/31/2025,Cash,2132
+1488,C,Lalitpur,Member,Female,Food and beverages,547,7,4/6/2025,Ewallet,3829
+1489,C,Biratnagar,Normal,Male,Fashion accessories,472,4,7/20/2025,Cash,1888
+1490,B,Lalitpur,Member,Female,Fashion accessories,642,7,8/22/2025,Credit card,4494
+1491,A,Lalitpur,Member,Male,Food and beverages,912,6,7/25/2025,Ewallet,5472
+1492,C,Kathmandu,Member,Female,Fashion accessories,879,5,1/5/2026,Cash,4395
+1493,A,Kathmandu,Normal,Female,Food and beverages,746,1,1/30/2026,Ewallet,746
+1494,A,Pokhara,Member,Female,Health and beauty,995,3,5/15/2025,Ewallet,2985
+1495,A,Lalitpur,Normal,Female,Food and beverages,215,4,12/30/2025,Cash,860
+1496,A,Lalitpur,Normal,Male,Sports and travel,955,4,8/8/2025,Credit card,3820
+1497,A,Kathmandu,Normal,Male,Sports and travel,871,2,2/28/2026,Ewallet,1742
+1498,A,Pokhara,Member,Male,Health and beauty,467,3,5/29/2025,Credit card,1401
+1499,A,Lalitpur,Normal,Female,Sports and travel,596,3,11/3/2025,Cash,1788
+1500,B,Lalitpur,Normal,Female,Food and beverages,264,7,8/18/2025,Cash,1848
+1501,A,Kathmandu,Normal,Female,Sports and travel,994,10,9/19/2025,Ewallet,9940
+1502,C,Kathmandu,Member,Male,Sports and travel,163,4,4/21/2025,Credit card,652
+1503,C,Biratnagar,Member,Male,Food and beverages,785,9,8/20/2025,Ewallet,7065
+1504,B,Kathmandu,Normal,Male,Sports and travel,927,5,10/3/2025,Ewallet,4635
+1505,C,Lalitpur,Normal,Female,Electronic accessories,925,5,11/14/2025,Credit card,4625
+1506,A,Biratnagar,Member,Female,Electronic accessories,130,9,10/9/2025,Cash,1170
+1507,C,Biratnagar,Member,Female,Health and beauty,182,9,11/9/2025,Cash,1638
+1508,C,Biratnagar,Normal,Female,Food and beverages,853,3,9/12/2025,Ewallet,2559
+1509,C,Lalitpur,Normal,Female,Fashion accessories,549,10,5/29/2025,Ewallet,5490
+1510,B,Biratnagar,Member,Male,Fashion accessories,465,10,3/19/2026,Ewallet,4650
+1511,A,Biratnagar,Normal,Female,Food and beverages,767,1,5/14/2025,Cash,767
+1512,A,Lalitpur,Normal,Male,Food and beverages,778,5,11/20/2025,Credit card,3890
+1513,B,Kathmandu,Normal,Male,Fashion accessories,454,4,5/25/2025,Cash,1816
+1514,B,Pokhara,Normal,Female,Sports and travel,548,4,3/20/2026,Credit card,2192
+1515,A,Lalitpur,Normal,Male,Electronic accessories,529,10,4/12/2025,Cash,5290
+1516,A,Kathmandu,Normal,Female,Health and beauty,272,10,5/12/2025,Credit card,2720
+1517,C,Pokhara,Member,Female,Fashion accessories,774,9,1/26/2026,Credit card,6966
+1518,B,Biratnagar,Member,Female,Fashion accessories,258,5,7/3/2025,Ewallet,1290
+1519,B,Lalitpur,Member,Male,Food and beverages,831,4,9/24/2025,Credit card,3324
+1520,C,Pokhara,Member,Male,Sports and travel,294,7,1/21/2026,Cash,2058
+1521,C,Lalitpur,Normal,Female,Health and beauty,525,1,11/27/2025,Credit card,525
+1522,B,Biratnagar,Normal,Male,Sports and travel,441,6,2/12/2026,Cash,2646
+1523,C,Pokhara,Normal,Male,Health and beauty,605,6,3/14/2026,Credit card,3630
+1524,A,Kathmandu,Member,Male,Fashion accessories,568,3,10/18/2025,Credit card,1704
+1525,C,Lalitpur,Member,Male,Electronic accessories,684,10,6/9/2025,Ewallet,6840
+1526,B,Lalitpur,Normal,Male,Sports and travel,685,10,4/9/2025,Credit card,6850
+1527,C,Pokhara,Normal,Male,Food and beverages,694,8,9/9/2025,Credit card,5552
+1528,C,Lalitpur,Normal,Male,Food and beverages,747,7,1/23/2026,Ewallet,5229
+1529,A,Lalitpur,Member,Female,Health and beauty,439,7,12/6/2025,Ewallet,3073
+1530,C,Lalitpur,Member,Female,Sports and travel,782,6,4/3/2025,Cash,4692
+1531,B,Kathmandu,Member,Male,Health and beauty,970,1,8/3/2025,Cash,970
+1532,B,Kathmandu,Normal,Male,Health and beauty,653,3,3/7/2026,Credit card,1959
+1533,A,Lalitpur,Normal,Female,Sports and travel,332,1,12/11/2025,Credit card,332
+1534,A,Biratnagar,Member,Male,Electronic accessories,634,8,10/13/2025,Ewallet,5072
+1535,B,Kathmandu,Member,Female,Food and beverages,300,3,6/19/2025,Credit card,900
+1536,A,Lalitpur,Normal,Female,Health and beauty,219,8,4/28/2025,Ewallet,1752
+1537,A,Kathmandu,Member,Male,Sports and travel,1000,6,1/16/2026,Ewallet,6000
+1538,C,Pokhara,Member,Male,Food and beverages,250,10,5/18/2025,Credit card,2500
+1539,B,Biratnagar,Member,Female,Sports and travel,724,1,5/26/2025,Credit card,724
+1540,B,Biratnagar,Member,Male,Fashion accessories,532,4,1/13/2026,Cash,2128
+1541,A,Pokhara,Normal,Male,Electronic accessories,122,1,7/7/2025,Credit card,122
+1542,A,Lalitpur,Normal,Female,Health and beauty,317,2,9/11/2025,Cash,634
+1543,B,Lalitpur,Normal,Male,Electronic accessories,687,3,8/5/2025,Credit card,2061
+1544,C,Pokhara,Member,Male,Food and beverages,352,6,3/24/2025,Cash,2112
+1545,C,Lalitpur,Normal,Female,Electronic accessories,515,3,11/20/2025,Credit card,1545
+1546,B,Lalitpur,Member,Female,Food and beverages,696,8,9/1/2025,Ewallet,5568
+1547,A,Lalitpur,Member,Female,Sports and travel,891,3,12/24/2025,Credit card,2673
+1548,C,Biratnagar,Normal,Female,Fashion accessories,752,7,11/17/2025,Credit card,5264
+1549,B,Lalitpur,Member,Female,Health and beauty,451,6,12/13/2025,Cash,2706
+1550,A,Kathmandu,Member,Female,Electronic accessories,420,7,9/7/2025,Cash,2940
+1551,C,Pokhara,Member,Male,Food and beverages,907,4,5/7/2025,Credit card,3628
+1552,C,Butwal,Normal,Male,Sports and travel,293,7,4/20/2025,Cash,2051
+1553,C,Pokhara,Normal,Female,Health and beauty,816,1,12/19/2025,Ewallet,816
+1554,B,Biratnagar,Normal,Male,Sports and travel,844,5,7/21/2025,Cash,4220
+1555,C,Butwal,Member,Female,Fashion accessories,509,6,6/19/2025,Ewallet,3054
+1556,C,Lalitpur,Normal,Female,Food and beverages,578,1,6/11/2025,Ewallet,578
+1557,C,Lalitpur,Normal,Male,Fashion accessories,558,3,5/26/2025,Ewallet,1674
+1558,C,Kathmandu,Normal,Female,Electronic accessories,947,5,12/12/2025,Ewallet,4735
+1559,B,Pokhara,Member,Male,Sports and travel,900,7,8/21/2025,Ewallet,6300
+1560,B,Butwal,Member,Female,Food and beverages,115,7,5/8/2025,Cash,805
+1561,B,Butwal,Normal,Male,Fashion accessories,410,1,6/2/2025,Cash,410
+1562,B,Biratnagar,Member,Male,Health and beauty,843,2,1/19/2026,Credit card,1686
+1563,C,Lalitpur,Normal,Female,Fashion accessories,683,5,7/22/2025,Ewallet,3415
+1564,B,Butwal,Member,Male,Food and beverages,622,9,9/23/2025,Credit card,5598
+1565,C,Pokhara,Normal,Male,Food and beverages,322,1,1/29/2026,Ewallet,322
+1566,B,Biratnagar,Member,Male,Electronic accessories,625,4,9/26/2025,Credit card,2500
+1567,B,Butwal,Normal,Male,Health and beauty,797,3,11/14/2025,Credit card,2391
+1568,B,Biratnagar,Member,Male,Health and beauty,770,9,9/19/2025,Cash,6930
+1569,C,Butwal,Normal,Female,Sports and travel,931,9,12/3/2025,Cash,8379
+1570,C,Biratnagar,Normal,Female,Health and beauty,322,3,2/23/2026,Credit card,966
+1571,C,Pokhara,Normal,Female,Sports and travel,367,1,2/20/2026,Ewallet,367
+1572,C,Biratnagar,Normal,Female,Food and beverages,863,6,5/24/2025,Ewallet,5178
+1573,A,Kathmandu,Member,Male,Electronic accessories,432,3,10/2/2025,Credit card,1296
+1574,B,Kathmandu,Normal,Female,Sports and travel,961,2,9/12/2025,Cash,1922
+1575,C,Butwal,Normal,Female,Food and beverages,453,10,4/21/2025,Cash,4530
+1576,B,Butwal,Member,Male,Sports and travel,648,7,12/21/2025,Cash,4536
+1577,A,Pokhara,Normal,Female,Food and beverages,343,5,10/16/2025,Ewallet,1715
+1578,B,Pokhara,Member,Female,Fashion accessories,697,2,4/11/2025,Credit card,1394
+1579,C,Butwal,Normal,Female,Sports and travel,538,6,6/23/2025,Ewallet,3228
+1580,B,Pokhara,Member,Male,Food and beverages,617,2,8/27/2025,Credit card,1234
+1581,C,Biratnagar,Normal,Female,Electronic accessories,587,1,2/23/2026,Ewallet,587
+1582,C,Butwal,Normal,Female,Health and beauty,825,8,12/4/2025,Cash,6600
+1583,C,Lalitpur,Normal,Male,Electronic accessories,945,9,1/31/2026,Ewallet,8505
+1584,B,Kathmandu,Normal,Male,Electronic accessories,397,2,5/26/2025,Credit card,794
+1585,A,Butwal,Member,Female,Food and beverages,581,3,2/4/2026,Ewallet,1743
+1586,A,Butwal,Normal,Male,Electronic accessories,374,7,11/5/2025,Ewallet,2618
+1587,B,Lalitpur,Normal,Female,Sports and travel,228,7,7/4/2025,Cash,1596
+1588,A,Pokhara,Member,Female,Electronic accessories,269,1,8/18/2025,Credit card,269
+1589,A,Butwal,Normal,Female,Fashion accessories,991,8,10/10/2025,Credit card,7928
+1590,B,Butwal,Normal,Male,Health and beauty,738,2,12/2/2025,Ewallet,1476
+1591,C,Biratnagar,Normal,Male,Electronic accessories,832,2,2/27/2026,Ewallet,1664
+1592,C,Pokhara,Normal,Male,Food and beverages,960,6,12/25/2025,Credit card,5760
+1593,A,Biratnagar,Member,Male,Electronic accessories,977,6,10/9/2025,Ewallet,5862
+1594,B,Butwal,Normal,Female,Electronic accessories,348,5,8/25/2025,Ewallet,1740
+1595,A,Biratnagar,Member,Female,Electronic accessories,973,7,3/21/2026,Cash,6811
+1596,A,Biratnagar,Member,Male,Electronic accessories,682,9,12/19/2025,Credit card,6138
+1597,B,Lalitpur,Normal,Male,Fashion accessories,378,9,7/15/2025,Credit card,3402
+1598,A,Butwal,Normal,Male,Health and beauty,352,5,6/14/2025,Ewallet,1760
+1599,B,Butwal,Normal,Female,Sports and travel,669,3,7/1/2025,Ewallet,2007
+1600,C,Lalitpur,Normal,Male,Sports and travel,853,9,9/2/2025,Credit card,7677
+1601,A,Biratnagar,Member,Male,Health and beauty,196,10,12/11/2025,Cash,1960
+1602,A,Lalitpur,Member,Male,Sports and travel,663,5,11/24/2025,Credit card,3315
+1603,A,Pokhara,Normal,Female,Electronic accessories,344,1,11/8/2025,Credit card,344
+1604,B,Kathmandu,Member,Female,Health and beauty,414,6,12/18/2025,Credit card,2484
+1605,C,Kathmandu,Member,Female,Food and beverages,110,8,5/2/2025,Credit card,880
+1606,B,Pokhara,Normal,Female,Electronic accessories,613,6,9/6/2025,Ewallet,3678
+1607,B,Butwal,Member,Male,Sports and travel,796,9,1/30/2026,Credit card,7164
+1608,B,Pokhara,Normal,Male,Health and beauty,882,6,11/6/2025,Ewallet,5292
+1609,A,Kathmandu,Member,Male,Food and beverages,643,8,4/15/2025,Ewallet,5144
+1610,C,Kathmandu,Member,Male,Health and beauty,530,10,1/30/2026,Ewallet,5300
+1611,A,Pokhara,Member,Female,Electronic accessories,644,10,8/22/2025,Cash,6440
+1612,B,Biratnagar,Member,Female,Food and beverages,831,5,1/27/2026,Cash,4155
+1613,C,Pokhara,Member,Female,Sports and travel,792,9,10/30/2025,Ewallet,7128
+1614,A,Pokhara,Member,Female,Electronic accessories,737,7,8/1/2025,Credit card,5159
+1615,A,Kathmandu,Member,Female,Health and beauty,801,2,2/1/2026,Ewallet,1602
+1616,A,Biratnagar,Member,Male,Health and beauty,618,9,7/30/2025,Ewallet,5562
+1617,C,Butwal,Member,Male,Health and beauty,805,4,12/15/2025,Ewallet,3220
+1618,B,Kathmandu,Normal,Male,Health and beauty,858,10,4/7/2025,Ewallet,8580
+1619,C,Butwal,Member,Female,Sports and travel,395,2,10/14/2025,Credit card,790
+1620,B,Kathmandu,Normal,Male,Food and beverages,954,2,12/14/2025,Cash,1908
+1621,A,Pokhara,Member,Female,Electronic accessories,565,2,10/29/2025,Cash,1130
+1622,A,Biratnagar,Member,Male,Fashion accessories,154,6,10/14/2025,Ewallet,924
+1623,C,Pokhara,Normal,Female,Sports and travel,677,9,10/21/2025,Ewallet,6093
+1624,C,Kathmandu,Normal,Male,Fashion accessories,237,2,5/21/2025,Cash,474
+1625,C,Biratnagar,Member,Female,Food and beverages,748,9,4/24/2025,Ewallet,6732
+1626,B,Kathmandu,Member,Male,Health and beauty,110,9,8/17/2025,Ewallet,990
+1627,C,Pokhara,Member,Female,Fashion accessories,535,6,6/6/2025,Credit card,3210
+1628,C,Lalitpur,Normal,Female,Health and beauty,399,10,6/16/2025,Ewallet,3990
+1629,B,Biratnagar,Member,Male,Food and beverages,994,3,6/17/2025,Cash,2982
+1630,A,Kathmandu,Normal,Female,Fashion accessories,346,5,12/2/2025,Ewallet,1730
+1631,B,Kathmandu,Member,Male,Fashion accessories,960,10,7/15/2025,Ewallet,9600
+1632,A,Pokhara,Normal,Male,Electronic accessories,908,1,7/31/2025,Ewallet,908
+1633,A,Lalitpur,Member,Male,Sports and travel,331,8,9/27/2025,Cash,2648
+1634,B,Biratnagar,Member,Female,Health and beauty,938,7,5/18/2025,Ewallet,6566
+1635,B,Lalitpur,Member,Female,Electronic accessories,191,7,5/7/2025,Cash,1337
+1636,C,Lalitpur,Member,Female,Food and beverages,484,2,12/13/2025,Ewallet,968
+1637,C,Pokhara,Member,Female,Sports and travel,905,5,1/17/2026,Cash,4525
+1638,C,Pokhara,Member,Male,Sports and travel,505,9,3/24/2026,Ewallet,4545
+1639,A,Lalitpur,Member,Male,Food and beverages,576,4,3/11/2026,Credit card,2304
+1640,B,Biratnagar,Normal,Male,Health and beauty,964,9,3/24/2025,Cash,8676
+1641,C,Butwal,Member,Male,Electronic accessories,324,4,4/30/2025,Cash,1296
+1642,A,Biratnagar,Member,Male,Electronic accessories,407,9,11/29/2025,Credit card,3663
+1643,A,Kathmandu,Normal,Male,Fashion accessories,586,2,2/6/2026,Ewallet,1172
+1644,B,Butwal,Normal,Male,Fashion accessories,319,7,5/16/2025,Ewallet,2233
+1645,C,Biratnagar,Normal,Female,Fashion accessories,928,3,6/14/2025,Credit card,2784
+1646,B,Butwal,Member,Male,Food and beverages,370,1,3/31/2025,Ewallet,370
+1647,A,Kathmandu,Member,Male,Electronic accessories,454,8,5/2/2025,Ewallet,3632
+1648,B,Butwal,Member,Female,Health and beauty,627,9,3/22/2026,Ewallet,5643
+1649,C,Biratnagar,Member,Male,Sports and travel,119,7,10/4/2025,Credit card,833
+1650,B,Pokhara,Member,Female,Fashion accessories,408,8,12/22/2025,Credit card,3264
+1651,C,Kathmandu,Member,Female,Health and beauty,319,4,3/31/2025,Credit card,1276
+1652,A,Biratnagar,Normal,Male,Electronic accessories,132,8,2/25/2026,Cash,1056
+1653,C,Lalitpur,Normal,Female,Electronic accessories,963,6,2/10/2026,Ewallet,5778
+1654,B,Biratnagar,Member,Male,Food and beverages,681,1,6/7/2025,Credit card,681
+1655,B,Biratnagar,Member,Male,Health and beauty,474,8,5/14/2025,Cash,3792
+1656,C,Butwal,Normal,Female,Electronic accessories,704,3,8/26/2025,Cash,2112
+1657,B,Pokhara,Normal,Female,Food and beverages,942,4,12/21/2025,Cash,3768
+1658,A,Butwal,Member,Male,Fashion accessories,813,6,9/29/2025,Ewallet,4878
+1659,C,Lalitpur,Member,Female,Sports and travel,782,7,4/4/2025,Cash,5474
+1660,C,Lalitpur,Member,Female,Health and beauty,347,6,12/30/2025,Ewallet,2082
+1661,C,Butwal,Member,Female,Food and beverages,982,4,11/6/2025,Credit card,3928
+1662,C,Lalitpur,Normal,Male,Sports and travel,970,8,11/14/2025,Cash,7760
+1663,A,Kathmandu,Normal,Female,Health and beauty,234,1,5/23/2025,Credit card,234
+1664,C,Lalitpur,Member,Male,Sports and travel,654,1,8/15/2025,Cash,654
+1665,B,Pokhara,Normal,Female,Electronic accessories,650,5,4/12/2025,Cash,3250
+1666,A,Kathmandu,Normal,Male,Fashion accessories,795,1,5/11/2025,Credit card,795
+1667,A,Pokhara,Member,Female,Sports and travel,101,6,9/24/2025,Credit card,606
+1668,B,Lalitpur,Normal,Female,Food and beverages,884,9,6/13/2025,Ewallet,7956
+1669,A,Biratnagar,Normal,Female,Sports and travel,334,3,1/8/2026,Ewallet,1002
+1670,B,Kathmandu,Member,Male,Food and beverages,391,10,10/24/2025,Credit card,3910
+1671,B,Biratnagar,Normal,Female,Electronic accessories,720,8,10/28/2025,Ewallet,5760
+1672,C,Butwal,Member,Male,Electronic accessories,106,1,10/30/2025,Cash,106
+1673,A,Kathmandu,Normal,Female,Sports and travel,614,1,11/30/2025,Cash,614
+1674,A,Pokhara,Normal,Male,Sports and travel,691,2,9/26/2025,Cash,1382
+1675,B,Pokhara,Normal,Male,Sports and travel,719,4,3/8/2026,Ewallet,2876
+1676,C,Kathmandu,Normal,Male,Electronic accessories,396,1,12/5/2025,Ewallet,396
+1677,B,Butwal,Normal,Female,Health and beauty,765,4,5/11/2025,Credit card,3060
+1678,C,Biratnagar,Normal,Male,Fashion accessories,961,8,10/18/2025,Ewallet,7688
+1679,C,Pokhara,Member,Male,Health and beauty,320,8,6/26/2025,Ewallet,2560
+1680,C,Butwal,Normal,Male,Fashion accessories,487,1,5/15/2025,Credit card,487
+1681,B,Pokhara,Normal,Male,Food and beverages,651,3,1/3/2026,Credit card,1953
+1682,C,Kathmandu,Normal,Female,Electronic accessories,413,7,5/26/2025,Credit card,2891
+1683,C,Kathmandu,Normal,Female,Health and beauty,362,7,10/10/2025,Cash,2534
+1684,C,Biratnagar,Member,Male,Fashion accessories,301,5,2/1/2026,Cash,1505
+1685,B,Biratnagar,Normal,Male,Electronic accessories,844,7,1/22/2026,Cash,5908
+1686,A,Lalitpur,Normal,Female,Sports and travel,156,7,7/11/2025,Ewallet,1092
+1687,A,Biratnagar,Normal,Male,Sports and travel,498,7,1/21/2026,Cash,3486
+1688,B,Pokhara,Normal,Male,Food and beverages,162,3,1/19/2026,Cash,486
+1689,C,Pokhara,Normal,Female,Health and beauty,687,6,9/26/2025,Credit card,4122
+1690,A,Butwal,Member,Female,Sports and travel,283,1,2/21/2026,Credit card,283
+1691,A,Pokhara,Normal,Male,Health and beauty,907,9,6/24/2025,Ewallet,8163
+1692,A,Biratnagar,Member,Female,Sports and travel,739,9,12/28/2025,Ewallet,6651
+1693,B,Pokhara,Member,Male,Electronic accessories,878,9,10/17/2025,Credit card,7902
+1694,C,Lalitpur,Member,Male,Sports and travel,971,5,10/25/2025,Credit card,4855
+1695,B,Biratnagar,Normal,Female,Fashion accessories,959,2,5/24/2025,Cash,1918
+1696,C,Butwal,Member,Male,Fashion accessories,707,8,4/28/2025,Ewallet,5656
+1697,A,Kathmandu,Normal,Male,Food and beverages,379,4,8/31/2025,Ewallet,1516
+1698,C,Lalitpur,Normal,Female,Sports and travel,900,3,9/13/2025,Credit card,2700
+1699,C,Pokhara,Member,Male,Electronic accessories,641,4,3/13/2026,Cash,2564
+1700,A,Lalitpur,Member,Male,Fashion accessories,564,2,2/23/2026,Credit card,1128
+1701,C,Butwal,Normal,Male,Food and beverages,534,10,10/29/2025,Ewallet,5340
+1702,A,Lalitpur,Normal,Male,Fashion accessories,397,10,11/6/2025,Credit card,3970
+1703,A,Butwal,Member,Male,Health and beauty,689,10,11/22/2025,Credit card,6890
+1704,B,Pokhara,Member,Female,Food and beverages,487,9,8/25/2025,Ewallet,4383
+1705,B,Biratnagar,Member,Male,Electronic accessories,775,3,6/30/2025,Credit card,2325
+1706,A,Butwal,Member,Male,Fashion accessories,229,4,12/29/2025,Ewallet,916
+1707,B,Biratnagar,Member,Male,Food and beverages,857,8,11/22/2025,Cash,6856
+1708,A,Lalitpur,Normal,Female,Sports and travel,366,7,7/2/2025,Credit card,2562
+1709,A,Kathmandu,Normal,Male,Sports and travel,307,3,11/2/2025,Ewallet,921
+1710,B,Lalitpur,Normal,Male,Electronic accessories,815,8,10/20/2025,Cash,6520
+1711,C,Butwal,Normal,Female,Electronic accessories,258,1,8/22/2025,Credit card,258
+1712,A,Kathmandu,Normal,Female,Health and beauty,333,1,1/31/2026,Cash,333
+1713,C,Pokhara,Member,Female,Fashion accessories,707,3,11/24/2025,Ewallet,2121
+1714,B,Biratnagar,Normal,Female,Health and beauty,360,3,6/20/2025,Credit card,1080
+1715,C,Pokhara,Normal,Female,Electronic accessories,697,10,4/30/2025,Credit card,6970
+1716,C,Biratnagar,Normal,Female,Fashion accessories,812,4,8/11/2025,Credit card,3248
+1717,C,Kathmandu,Normal,Male,Sports and travel,124,5,12/6/2025,Cash,620
+1718,B,Pokhara,Normal,Male,Electronic accessories,301,8,9/3/2025,Credit card,2408
+1719,C,Pokhara,Normal,Female,Food and beverages,791,9,10/8/2025,Ewallet,7119
+1720,C,Butwal,Normal,Female,Electronic accessories,846,3,1/10/2026,Ewallet,2538
+1721,A,Pokhara,Normal,Male,Fashion accessories,989,5,4/20/2025,Cash,4945
+1722,B,Kathmandu,Member,Female,Fashion accessories,189,6,4/14/2025,Credit card,1134
+1723,C,Butwal,Member,Male,Fashion accessories,645,6,9/13/2025,Ewallet,3870
+1724,B,Butwal,Normal,Female,Food and beverages,184,10,3/16/2026,Credit card,1840
+1725,A,Lalitpur,Normal,Female,Electronic accessories,412,4,5/20/2025,Ewallet,1648
+1726,A,Lalitpur,Normal,Female,Health and beauty,336,8,8/21/2025,Ewallet,2688
+1727,A,Pokhara,Member,Female,Health and beauty,858,3,10/16/2025,Credit card,2574
+1728,A,Biratnagar,Member,Female,Health and beauty,400,3,11/15/2025,Cash,1200
+1729,A,Biratnagar,Member,Male,Health and beauty,480,3,4/14/2025,Credit card,1440
+1730,A,Pokhara,Normal,Male,Fashion accessories,376,7,7/22/2025,Credit card,2632
+1731,C,Kathmandu,Member,Female,Fashion accessories,502,6,7/24/2025,Ewallet,3012
+1732,C,Kathmandu,Member,Male,Fashion accessories,633,1,9/7/2025,Credit card,633
+1733,B,Kathmandu,Normal,Female,Electronic accessories,212,1,3/12/2026,Cash,212
+1734,B,Biratnagar,Member,Male,Sports and travel,372,9,8/14/2025,Ewallet,3348
+1735,A,Pokhara,Member,Male,Food and beverages,878,6,10/21/2025,Credit card,5268
+1736,A,Lalitpur,Normal,Female,Electronic accessories,500,4,4/3/2025,Credit card,2000
+1737,B,Butwal,Member,Male,Fashion accessories,456,4,11/29/2025,Cash,1824
+1738,C,Butwal,Normal,Female,Sports and travel,155,7,1/6/2026,Ewallet,1085
+1739,C,Lalitpur,Normal,Male,Health and beauty,272,2,12/29/2025,Ewallet,544
+1740,B,Lalitpur,Normal,Female,Health and beauty,487,3,12/10/2025,Credit card,1461
+1741,B,Pokhara,Member,Female,Health and beauty,833,4,6/8/2025,Credit card,3332
+1742,B,Lalitpur,Normal,Female,Health and beauty,943,5,5/12/2025,Cash,4715
+1743,C,Biratnagar,Member,Male,Food and beverages,522,2,3/14/2026,Credit card,1044
+1744,C,Kathmandu,Member,Female,Electronic accessories,204,4,8/18/2025,Cash,816
+1745,C,Lalitpur,Member,Female,Electronic accessories,196,10,1/14/2026,Cash,1960
+1746,A,Lalitpur,Member,Male,Fashion accessories,824,5,9/24/2025,Ewallet,4120
+1747,B,Lalitpur,Member,Female,Fashion accessories,934,5,1/29/2026,Ewallet,4670
+1748,B,Biratnagar,Member,Male,Food and beverages,279,3,9/11/2025,Ewallet,837
+1749,C,Pokhara,Normal,Female,Sports and travel,667,2,3/24/2026,Cash,1334
+1750,C,Biratnagar,Member,Male,Electronic accessories,585,4,4/18/2025,Cash,2340
+1751,C,Kathmandu,Member,Male,Food and beverages,576,10,12/28/2025,Credit card,5760
+1752,C,Lalitpur,Normal,Female,Electronic accessories,475,4,3/21/2026,Credit card,1900
+1753,B,Lalitpur,Normal,Male,Health and beauty,584,3,3/24/2025,Credit card,1752
+1754,B,Butwal,Member,Male,Sports and travel,108,5,7/15/2025,Cash,540
+1755,C,Biratnagar,Normal,Male,Electronic accessories,948,3,9/14/2025,Credit card,2844
+1756,C,Butwal,Normal,Male,Health and beauty,470,9,12/16/2025,Ewallet,4230
+1757,C,Pokhara,Member,Male,Electronic accessories,751,2,1/8/2026,Credit card,1502
+1758,B,Biratnagar,Normal,Male,Fashion accessories,751,10,6/20/2025,Cash,7510
+1759,B,Butwal,Normal,Female,Electronic accessories,721,1,2/12/2026,Credit card,721
+1760,B,Lalitpur,Normal,Male,Food and beverages,690,5,6/18/2025,Credit card,3450
+1761,C,Biratnagar,Normal,Male,Sports and travel,459,1,6/29/2025,Cash,459
+1762,C,Biratnagar,Member,Female,Food and beverages,453,4,8/20/2025,Ewallet,1812
+1763,A,Lalitpur,Member,Female,Electronic accessories,600,4,8/26/2025,Ewallet,2400
+1764,C,Lalitpur,Member,Female,Health and beauty,542,2,6/3/2025,Credit card,1084
+1765,B,Butwal,Member,Female,Electronic accessories,332,3,10/2/2025,Ewallet,996
+1766,C,Kathmandu,Normal,Male,Food and beverages,534,1,3/27/2025,Cash,534
+1767,C,Biratnagar,Member,Male,Electronic accessories,443,8,5/28/2025,Ewallet,3544
+1768,C,Lalitpur,Member,Male,Fashion accessories,811,9,3/10/2026,Credit card,7299
+1769,C,Pokhara,Member,Female,Food and beverages,380,8,11/3/2025,Cash,3040
+1770,C,Butwal,Member,Female,Food and beverages,534,2,7/31/2025,Credit card,1068
+1771,B,Lalitpur,Member,Female,Food and beverages,735,8,7/31/2025,Ewallet,5880
+1772,C,Butwal,Member,Male,Electronic accessories,164,9,9/8/2025,Cash,1476
+1773,C,Biratnagar,Normal,Female,Electronic accessories,511,4,4/10/2025,Ewallet,2044
+1774,C,Pokhara,Normal,Male,Food and beverages,393,5,8/24/2025,Ewallet,1965
+1775,B,Butwal,Normal,Female,Health and beauty,936,2,9/26/2025,Ewallet,1872
+1776,A,Pokhara,Member,Female,Fashion accessories,470,8,8/11/2025,Credit card,3760
+1777,B,Lalitpur,Normal,Male,Health and beauty,890,5,10/2/2025,Ewallet,4450
+1778,B,Butwal,Normal,Male,Food and beverages,457,4,10/13/2025,Credit card,1828
+1779,B,Butwal,Normal,Female,Sports and travel,443,9,9/14/2025,Ewallet,3987
+1780,C,Lalitpur,Member,Male,Electronic accessories,626,10,9/25/2025,Ewallet,6260
+1781,B,Butwal,Normal,Female,Electronic accessories,256,3,9/20/2025,Cash,768
+1782,B,Pokhara,Normal,Female,Sports and travel,612,7,12/26/2025,Ewallet,4284
+1783,B,Butwal,Normal,Female,Sports and travel,664,7,12/26/2025,Credit card,4648
+1784,C,Kathmandu,Member,Male,Fashion accessories,333,5,6/1/2025,Cash,1665
+1785,A,Biratnagar,Normal,Male,Health and beauty,364,3,12/7/2025,Credit card,1092
+1786,A,Lalitpur,Normal,Male,Fashion accessories,757,8,3/17/2026,Credit card,6056
+1787,B,Biratnagar,Normal,Female,Food and beverages,134,1,9/9/2025,Cash,134
+1788,C,Lalitpur,Normal,Female,Sports and travel,698,1,11/21/2025,Credit card,698
+1789,A,Butwal,Normal,Female,Electronic accessories,143,10,11/7/2025,Credit card,1430
+1790,C,Butwal,Normal,Male,Food and beverages,923,4,1/11/2026,Credit card,3692
+1791,C,Biratnagar,Member,Male,Fashion accessories,212,2,2/18/2026,Ewallet,424
+1792,B,Lalitpur,Normal,Female,Fashion accessories,980,2,5/28/2025,Cash,1960
+1793,C,Butwal,Member,Female,Sports and travel,354,1,2/20/2026,Cash,354
+1794,C,Biratnagar,Normal,Female,Food and beverages,228,9,10/22/2025,Cash,2052
+1795,A,Biratnagar,Normal,Female,Electronic accessories,561,1,12/1/2025,Credit card,561
+1796,A,Kathmandu,Normal,Female,Health and beauty,297,3,3/26/2025,Ewallet,891
+1797,C,Butwal,Member,Female,Food and beverages,460,3,3/20/2026,Ewallet,1380
+1798,B,Butwal,Member,Female,Electronic accessories,327,9,12/5/2025,Credit card,2943
+1799,B,Pokhara,Normal,Male,Health and beauty,850,9,3/3/2026,Ewallet,7650
+1800,C,Biratnagar,Normal,Male,Food and beverages,668,8,4/21/2025,Credit card,5344
+1801,C,Pokhara,Normal,Male,Food and beverages,321,9,1/14/2026,Ewallet,2889
+1802,C,Kathmandu,Member,Female,Sports and travel,500,9,4/7/2025,Cash,4500
+1803,B,Lalitpur,Normal,Male,Sports and travel,274,1,10/12/2025,Ewallet,274
+1804,C,Butwal,Normal,Female,Fashion accessories,845,7,2/26/2026,Ewallet,5915
+1805,B,Butwal,Member,Female,Health and beauty,633,7,10/26/2025,Cash,4431
+1806,B,Kathmandu,Normal,Female,Sports and travel,356,1,9/26/2025,Cash,356
+1807,A,Lalitpur,Member,Female,Health and beauty,674,2,11/14/2025,Ewallet,1348
+1808,C,Biratnagar,Normal,Female,Sports and travel,934,3,3/26/2025,Cash,2802
+1809,C,Pokhara,Member,Male,Health and beauty,331,1,3/11/2026,Cash,331
+1810,B,Lalitpur,Normal,Male,Electronic accessories,778,1,8/6/2025,Credit card,778
+1811,C,Pokhara,Normal,Male,Health and beauty,563,5,10/29/2025,Credit card,2815
+1812,A,Biratnagar,Member,Female,Health and beauty,661,8,12/20/2025,Ewallet,5288
+1813,A,Biratnagar,Normal,Male,Food and beverages,941,8,6/7/2025,Credit card,7528
+1814,B,Kathmandu,Normal,Male,Fashion accessories,962,1,10/21/2025,Credit card,962
+1815,C,Biratnagar,Normal,Male,Food and beverages,991,9,8/2/2025,Cash,8919
+1816,B,Butwal,Member,Female,Health and beauty,818,4,12/22/2025,Cash,3272
+1817,C,Butwal,Normal,Female,Electronic accessories,217,10,4/13/2025,Cash,2170
+1818,A,Kathmandu,Normal,Female,Food and beverages,853,3,12/14/2025,Ewallet,2559
+1819,B,Pokhara,Normal,Female,Fashion accessories,179,6,11/23/2025,Ewallet,1074
+1820,C,Kathmandu,Member,Male,Health and beauty,378,7,4/8/2025,Credit card,2646
+1821,B,Butwal,Normal,Male,Food and beverages,279,10,5/29/2025,Credit card,2790
+1822,B,Biratnagar,Member,Male,Fashion accessories,632,10,8/31/2025,Credit card,6320
+1823,A,Biratnagar,Normal,Male,Health and beauty,265,8,9/26/2025,Ewallet,2120
+1824,A,Kathmandu,Normal,Female,Food and beverages,823,10,11/2/2025,Credit card,8230
+1825,A,Kathmandu,Normal,Female,Fashion accessories,318,2,6/12/2025,Cash,636
+1826,C,Butwal,Member,Female,Fashion accessories,885,9,10/27/2025,Credit card,7965
+1827,B,Butwal,Normal,Male,Fashion accessories,403,1,8/10/2025,Cash,403
+1828,A,Pokhara,Member,Male,Health and beauty,316,8,9/18/2025,Ewallet,2528
+1829,B,Biratnagar,Member,Female,Electronic accessories,957,2,5/7/2025,Credit card,1914
+1830,B,Kathmandu,Normal,Female,Fashion accessories,697,1,11/29/2025,Cash,697
+1831,C,Biratnagar,Member,Female,Sports and travel,801,8,7/19/2025,Cash,6408
+1832,B,Biratnagar,Normal,Female,Electronic accessories,410,10,11/5/2025,Ewallet,4100
+1833,B,Pokhara,Member,Male,Health and beauty,517,7,5/19/2025,Cash,3619
+1834,A,Pokhara,Normal,Male,Electronic accessories,138,7,8/30/2025,Ewallet,966
+1835,B,Pokhara,Member,Male,Sports and travel,722,2,8/11/2025,Cash,1444
+1836,A,Kathmandu,Normal,Female,Electronic accessories,456,4,5/30/2025,Ewallet,1824
+1837,B,Biratnagar,Member,Male,Fashion accessories,760,9,12/29/2025,Credit card,6840
+1838,A,Biratnagar,Member,Female,Fashion accessories,777,6,4/5/2025,Credit card,4662
+1839,B,Kathmandu,Member,Male,Sports and travel,508,7,5/11/2025,Credit card,3556
+1840,B,Kathmandu,Member,Male,Sports and travel,717,5,2/21/2026,Ewallet,3585
+1841,A,Pokhara,Normal,Male,Sports and travel,718,3,5/28/2025,Cash,2154
+1842,B,Pokhara,Member,Male,Food and beverages,884,2,12/12/2025,Cash,1768
+1843,A,Biratnagar,Member,Male,Health and beauty,476,3,4/12/2025,Cash,1428
+1844,B,Butwal,Normal,Male,Electronic accessories,901,2,10/4/2025,Cash,1802
+1845,A,Biratnagar,Normal,Male,Electronic accessories,243,2,11/24/2025,Credit card,486
+1846,A,Pokhara,Member,Female,Electronic accessories,904,7,8/14/2025,Cash,6328
+1847,C,Kathmandu,Normal,Male,Fashion accessories,310,2,9/7/2025,Ewallet,620
+1848,A,Biratnagar,Normal,Male,Food and beverages,631,6,9/30/2025,Ewallet,3786
+1849,B,Kathmandu,Normal,Female,Sports and travel,215,3,7/26/2025,Cash,645
+1850,B,Biratnagar,Normal,Female,Electronic accessories,794,9,9/30/2025,Credit card,7146
+1851,C,Kathmandu,Member,Male,Sports and travel,364,10,3/3/2026,Credit card,3640
+1852,C,Biratnagar,Normal,Male,Fashion accessories,710,7,12/2/2025,Credit card,4970
+1853,C,Butwal,Member,Female,Sports and travel,974,9,2/22/2026,Ewallet,8766
+1854,A,Butwal,Member,Male,Electronic accessories,352,10,11/12/2025,Ewallet,3520
+1855,C,Lalitpur,Member,Female,Sports and travel,320,4,8/28/2025,Cash,1280
+1856,A,Lalitpur,Normal,Male,Health and beauty,531,5,5/21/2025,Cash,2655
+1857,A,Lalitpur,Normal,Male,Electronic accessories,587,10,9/20/2025,Cash,5870
+1858,B,Pokhara,Normal,Female,Food and beverages,243,7,9/5/2025,Cash,1701
+1859,C,Lalitpur,Member,Male,Fashion accessories,819,8,7/9/2025,Ewallet,6552
+1860,B,Lalitpur,Member,Male,Health and beauty,193,4,5/8/2025,Credit card,772
+1861,A,Lalitpur,Normal,Female,Sports and travel,940,2,12/29/2025,Credit card,1880
+1862,B,Pokhara,Normal,Male,Sports and travel,834,10,1/17/2026,Cash,8340
+1863,A,Butwal,Normal,Male,Fashion accessories,495,9,3/4/2026,Cash,4455
+1864,B,Kathmandu,Member,Male,Fashion accessories,674,4,12/18/2025,Credit card,2696
+1865,B,Kathmandu,Member,Female,Food and beverages,353,4,3/6/2026,Credit card,1412
+1866,C,Biratnagar,Member,Male,Fashion accessories,359,3,8/14/2025,Ewallet,1077
+1867,C,Pokhara,Normal,Female,Sports and travel,271,7,10/10/2025,Ewallet,1897
+1868,C,Pokhara,Member,Male,Fashion accessories,206,9,9/9/2025,Cash,1854
+1869,A,Kathmandu,Member,Female,Fashion accessories,540,1,4/11/2025,Cash,540
+1870,C,Pokhara,Member,Female,Fashion accessories,572,6,3/18/2026,Credit card,3432
+1871,A,Pokhara,Normal,Male,Sports and travel,868,8,11/24/2025,Ewallet,6944
+1872,C,Kathmandu,Normal,Female,Sports and travel,271,4,9/5/2025,Ewallet,1084
+1873,A,Butwal,Normal,Female,Electronic accessories,926,8,1/14/2026,Cash,7408
+1874,C,Pokhara,Normal,Female,Sports and travel,946,9,1/11/2026,Credit card,8514
+1875,C,Lalitpur,Normal,Female,Fashion accessories,266,2,3/30/2025,Cash,532
+1876,B,Lalitpur,Normal,Female,Health and beauty,801,1,11/5/2025,Cash,801
+1877,C,Butwal,Member,Female,Sports and travel,837,1,11/8/2025,Cash,837
+1878,A,Lalitpur,Normal,Female,Fashion accessories,272,8,7/4/2025,Ewallet,2176
+1879,A,Pokhara,Member,Female,Fashion accessories,160,10,10/20/2025,Credit card,1600
+1880,B,Biratnagar,Normal,Male,Health and beauty,853,3,1/27/2026,Ewallet,2559
+1881,A,Kathmandu,Member,Male,Health and beauty,911,8,2/28/2026,Ewallet,7288
+1882,A,Pokhara,Normal,Male,Food and beverages,483,6,11/24/2025,Credit card,2898
+1883,C,Pokhara,Member,Female,Health and beauty,495,7,12/8/2025,Ewallet,3465
+1884,C,Kathmandu,Member,Female,Fashion accessories,369,6,12/8/2025,Credit card,2214
+1885,A,Biratnagar,Normal,Female,Sports and travel,331,6,6/20/2025,Cash,1986
+1886,A,Pokhara,Normal,Female,Electronic accessories,955,4,3/16/2026,Credit card,3820
+1887,A,Pokhara,Normal,Male,Health and beauty,687,6,12/26/2025,Ewallet,4122
+1888,C,Butwal,Member,Female,Electronic accessories,830,8,8/31/2025,Credit card,6640
+1889,B,Butwal,Normal,Male,Electronic accessories,118,3,10/12/2025,Cash,354
+1890,C,Kathmandu,Member,Male,Sports and travel,164,10,5/5/2025,Cash,1640
+1891,B,Biratnagar,Member,Female,Health and beauty,179,2,7/2/2025,Credit card,358
+1892,B,Butwal,Normal,Female,Food and beverages,932,5,1/27/2026,Credit card,4660
+1893,C,Pokhara,Normal,Male,Fashion accessories,187,1,2/9/2026,Cash,187
+1894,C,Pokhara,Normal,Male,Electronic accessories,295,2,4/20/2025,Cash,590
+1895,B,Kathmandu,Member,Female,Food and beverages,697,6,4/8/2025,Ewallet,4182
+1896,B,Pokhara,Normal,Male,Fashion accessories,378,2,3/31/2025,Cash,756
+1897,B,Pokhara,Normal,Female,Sports and travel,275,1,9/5/2025,Cash,275
+1898,A,Kathmandu,Member,Female,Sports and travel,285,3,7/1/2025,Credit card,855
+1899,C,Pokhara,Member,Female,Electronic accessories,443,8,2/23/2026,Ewallet,3544
+1900,A,Biratnagar,Normal,Female,Health and beauty,290,6,2/21/2026,Cash,1740
+1901,C,Biratnagar,Member,Female,Health and beauty,131,6,11/15/2025,Credit card,786
+1902,A,Butwal,Member,Male,Food and beverages,927,7,8/4/2025,Credit card,6489
+1903,A,Pokhara,Member,Female,Food and beverages,443,7,7/30/2025,Credit card,3101
+1904,B,Biratnagar,Normal,Male,Health and beauty,323,10,10/15/2025,Ewallet,3230
+1905,A,Lalitpur,Normal,Male,Fashion accessories,144,4,3/17/2026,Credit card,576
+1906,A,Butwal,Normal,Female,Fashion accessories,337,5,11/8/2025,Ewallet,1685
+1907,A,Lalitpur,Normal,Female,Fashion accessories,708,7,4/27/2025,Cash,4956
+1908,B,Pokhara,Normal,Female,Fashion accessories,673,4,7/12/2025,Ewallet,2692
+1909,B,Butwal,Member,Male,Fashion accessories,633,4,4/12/2025,Ewallet,2532
+1910,A,Pokhara,Member,Female,Fashion accessories,741,8,11/23/2025,Credit card,5928
+1911,A,Lalitpur,Normal,Female,Health and beauty,482,2,9/26/2025,Ewallet,964
+1912,C,Pokhara,Member,Male,Health and beauty,677,6,9/26/2025,Cash,4062
+1913,C,Lalitpur,Normal,Male,Health and beauty,214,7,1/27/2026,Ewallet,1498
+1914,C,Biratnagar,Normal,Female,Fashion accessories,935,9,9/25/2025,Ewallet,8415
+1915,C,Pokhara,Member,Male,Electronic accessories,410,9,3/5/2026,Credit card,3690
+1916,C,Lalitpur,Member,Male,Fashion accessories,552,10,1/26/2026,Cash,5520
+1917,C,Butwal,Normal,Male,Electronic accessories,428,6,2/7/2026,Cash,2568
+1918,A,Biratnagar,Member,Female,Electronic accessories,369,2,6/12/2025,Credit card,738
+1919,B,Biratnagar,Normal,Male,Sports and travel,828,2,5/29/2025,Ewallet,1656
+1920,A,Biratnagar,Normal,Female,Electronic accessories,227,1,6/12/2025,Ewallet,227
+1921,C,Biratnagar,Member,Female,Electronic accessories,347,10,1/17/2026,Ewallet,3470
+1922,B,Kathmandu,Member,Female,Fashion accessories,997,9,10/24/2025,Ewallet,8973
+1923,A,Pokhara,Normal,Male,Sports and travel,693,2,6/13/2025,Credit card,1386
+1924,A,Kathmandu,Normal,Male,Fashion accessories,907,8,9/23/2025,Credit card,7256
+1925,B,Butwal,Normal,Male,Sports and travel,173,7,8/15/2025,Ewallet,1211
+1926,C,Butwal,Member,Female,Sports and travel,510,4,5/26/2025,Credit card,2040
+1927,C,Biratnagar,Normal,Male,Electronic accessories,337,8,3/5/2026,Cash,2696
+1928,C,Pokhara,Member,Male,Electronic accessories,515,2,1/5/2026,Cash,1030
+1929,A,Kathmandu,Normal,Male,Health and beauty,375,3,5/5/2025,Cash,1125
+1930,A,Biratnagar,Member,Male,Electronic accessories,757,9,5/31/2025,Ewallet,6813
+1931,C,Pokhara,Normal,Female,Food and beverages,566,10,7/12/2025,Cash,5660
+1932,B,Pokhara,Normal,Female,Fashion accessories,327,5,2/7/2026,Ewallet,1635
+1933,C,Kathmandu,Normal,Female,Sports and travel,326,2,3/2/2026,Cash,652
+1934,C,Biratnagar,Normal,Female,Food and beverages,977,4,5/14/2025,Credit card,3908
+1935,B,Pokhara,Member,Male,Fashion accessories,287,4,3/16/2026,Ewallet,1148
+1936,A,Butwal,Member,Female,Electronic accessories,664,6,6/24/2025,Credit card,3984
+1937,A,Biratnagar,Member,Female,Electronic accessories,381,5,7/3/2025,Ewallet,1905
+1938,A,Lalitpur,Member,Male,Electronic accessories,909,6,3/22/2026,Cash,5454
+1939,A,Pokhara,Member,Female,Sports and travel,800,9,11/9/2025,Ewallet,7200
+1940,A,Butwal,Member,Female,Electronic accessories,339,4,7/14/2025,Credit card,1356
+1941,B,Pokhara,Member,Female,Fashion accessories,117,2,2/22/2026,Ewallet,234
+1942,C,Butwal,Normal,Female,Sports and travel,981,8,5/12/2025,Credit card,7848
+1943,C,Kathmandu,Normal,Male,Health and beauty,965,1,3/16/2026,Ewallet,965
+1944,C,Butwal,Member,Male,Fashion accessories,389,8,3/24/2026,Credit card,3112
+1945,B,Butwal,Member,Female,Sports and travel,876,8,7/17/2025,Ewallet,7008
+1946,B,Kathmandu,Normal,Female,Fashion accessories,429,1,3/20/2026,Cash,429
+1947,B,Kathmandu,Normal,Female,Health and beauty,346,3,3/29/2025,Cash,1038
+1948,B,Lalitpur,Member,Male,Food and beverages,445,1,4/7/2025,Cash,445
+1949,B,Butwal,Member,Female,Health and beauty,988,2,6/13/2025,Cash,1976
+1950,C,Lalitpur,Member,Female,Fashion accessories,614,8,1/27/2026,Ewallet,4912
+1951,B,Pokhara,Member,Male,Fashion accessories,332,10,12/16/2025,Cash,3320
+1952,B,Butwal,Member,Male,Health and beauty,477,7,12/26/2025,Ewallet,3339
+1953,B,Pokhara,Member,Male,Sports and travel,209,6,8/7/2025,Cash,1254
+1954,C,Kathmandu,Normal,Male,Sports and travel,625,10,3/23/2026,Ewallet,6250
+1955,B,Pokhara,Member,Female,Electronic accessories,425,9,10/25/2025,Ewallet,3825
+1956,C,Butwal,Member,Male,Fashion accessories,508,9,3/26/2025,Ewallet,4572
+1957,C,Kathmandu,Normal,Female,Sports and travel,145,6,12/24/2025,Credit card,870
+1958,C,Pokhara,Member,Female,Health and beauty,825,10,5/7/2025,Ewallet,8250
+1959,B,Biratnagar,Normal,Female,Sports and travel,121,6,3/29/2025,Cash,726
+1960,C,Biratnagar,Member,Male,Electronic accessories,266,7,9/15/2025,Credit card,1862
+1961,C,Biratnagar,Normal,Female,Sports and travel,197,7,1/19/2026,Cash,1379
+1962,C,Pokhara,Normal,Female,Sports and travel,220,7,5/22/2025,Credit card,1540
+1963,C,Biratnagar,Normal,Male,Sports and travel,444,5,2/3/2026,Cash,2220
+1964,C,Pokhara,Member,Female,Food and beverages,775,4,12/30/2025,Cash,3100
+1965,A,Kathmandu,Member,Female,Electronic accessories,474,8,8/14/2025,Ewallet,3792
+1966,C,Butwal,Member,Female,Electronic accessories,704,5,2/3/2026,Cash,3520
+1967,C,Lalitpur,Normal,Female,Health and beauty,925,1,1/29/2026,Credit card,925
+1968,C,Lalitpur,Member,Male,Food and beverages,456,9,2/12/2026,Ewallet,4104
+1969,B,Lalitpur,Normal,Female,Health and beauty,539,6,12/9/2025,Cash,3234
+1970,B,Biratnagar,Normal,Female,Electronic accessories,809,1,8/20/2025,Cash,809
+1971,A,Butwal,Member,Female,Fashion accessories,324,6,8/21/2025,Ewallet,1944
+1972,A,Lalitpur,Normal,Female,Health and beauty,888,6,1/24/2026,Credit card,5328
+1973,C,Biratnagar,Normal,Female,Electronic accessories,742,6,10/30/2025,Ewallet,4452
+1974,A,Biratnagar,Member,Male,Food and beverages,615,5,10/6/2025,Ewallet,3075
+1975,A,Pokhara,Member,Male,Sports and travel,205,2,8/2/2025,Ewallet,410
+1976,B,Biratnagar,Member,Male,Sports and travel,778,7,1/4/2026,Cash,5446
+1977,B,Biratnagar,Normal,Female,Food and beverages,114,10,4/29/2025,Cash,1140
+1978,B,Kathmandu,Normal,Female,Health and beauty,575,7,11/30/2025,Cash,4025
+1979,A,Kathmandu,Member,Male,Sports and travel,368,7,4/15/2025,Cash,2576
+1980,A,Biratnagar,Member,Female,Electronic accessories,845,7,12/2/2025,Cash,5915
+1981,B,Lalitpur,Member,Male,Food and beverages,409,5,1/12/2026,Cash,2045
+1982,B,Biratnagar,Normal,Male,Electronic accessories,651,1,5/1/2025,Cash,651
+1983,A,Kathmandu,Normal,Male,Fashion accessories,706,5,3/30/2025,Ewallet,3530
+1984,A,Butwal,Member,Male,Health and beauty,446,7,5/27/2025,Credit card,3122
+1985,A,Kathmandu,Member,Female,Electronic accessories,480,8,12/14/2025,Cash,3840
+1986,C,Butwal,Member,Female,Health and beauty,909,3,7/31/2025,Ewallet,2727
+1987,C,Pokhara,Member,Female,Sports and travel,748,3,9/20/2025,Ewallet,2244
+1988,A,Butwal,Normal,Female,Sports and travel,902,5,12/11/2025,Ewallet,4510
+1989,A,Biratnagar,Normal,Female,Food and beverages,460,2,12/8/2025,Cash,920
+1990,C,Butwal,Member,Female,Electronic accessories,885,9,8/25/2025,Cash,7965
+1991,B,Pokhara,Member,Male,Sports and travel,621,5,10/26/2025,Credit card,3105
+1992,C,Pokhara,Member,Male,Sports and travel,105,4,6/1/2025,Credit card,420
+1993,B,Butwal,Normal,Female,Fashion accessories,154,9,1/20/2026,Credit card,1386
+1994,B,Kathmandu,Normal,Female,Food and beverages,673,5,12/8/2025,Ewallet,3365
+1995,B,Lalitpur,Member,Female,Food and beverages,983,8,5/29/2025,Ewallet,7864
+1996,C,Kathmandu,Member,Female,Fashion accessories,222,2,11/14/2025,Ewallet,444
+1997,A,Kathmandu,Member,Male,Food and beverages,113,4,11/22/2025,Cash,452
+1998,A,Butwal,Normal,Male,Health and beauty,409,1,10/26/2025,Ewallet,409
+1999,A,Kathmandu,Normal,Male,Health and beauty,692,1,10/27/2025,Ewallet,692
